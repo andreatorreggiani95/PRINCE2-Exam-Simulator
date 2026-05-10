@@ -1,11 +1,13 @@
-const CACHE_NAME = 'p2-cache-v1';
+const CACHE_NAME = 'p2-cache-v2'; // Aggiornato a v2 per forzare il download dei nuovi file
 const BASE_PATH = '/PRINCE2-Exam-Simulator/';
 
 const urlsToCache = [
   BASE_PATH,
   BASE_PATH + 'index.html',
   BASE_PATH + 'manifest.json',
-  BASE_PATH + 'icon-512.png'
+  BASE_PATH + 'icon-512.png',
+  BASE_PATH + 'questions.json',    // <-- Aggiunto file domande standard
+  BASE_PATH + 'ai_questions.json'  // <-- Aggiunto file domande AI
 ];
 
 // Install
@@ -37,4 +39,3 @@ self.addEventListener('fetch', event => {
       })
   );
 });
-``
