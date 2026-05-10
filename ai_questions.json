@@ -4678,5 +4678,3125 @@
                 ],
                 "correct_answer": "A",
                 "explanation": "L'apprendimento deve essere attivo: cercare lezioni all'inizio, durante e alla fine del progetto."
+            },
+            {
+                "id": 481,
+                "category": "Understand key concepts",
+                "question": "Which of the following is NOT one of the characteristics of a project?",
+                "options": [
+                "A. Change",
+                "B. Temporary",
+                "C. Low risk",
+                "D. Cross-functional"
+                ],
+                "correct_answer": "C",
+                "explanation": "I progetti sono intrinsecamente rischiosi a causa della loro unicità e incertezza; la caratteristica corretta è 'Risk', non 'Low risk'."
+            },
+            {
+                "id": 482,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when a Project Board sets a budget limit that the Project Manager must not exceed?",
+                "options": [
+                "A. Manage by stages",
+                "B. Manage by exception",
+                "C. Focus on products",
+                "D. Tailor to suit the project"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il principio 'Manage by exception' utilizza le tolleranze (limiti) per delegare l'autorità mantenendo il controllo finanziario e operativo."
+            },
+            {
+                "id": 483,
+                "category": "Understand people",
+                "question": "In PRINCE2 7, which of the following are components of the 'People' element? 1. Leadership. 2. Collaboration. 3. Project lifecycle. 4. Culture.",
+                "options": [
+                "A. 1, 2, 3",
+                "B. 1, 2, 4",
+                "C. 2, 3, 4",
+                "D. 1, 3, 4"
+                ],
+                "correct_answer": "B",
+                "explanation": "Leadership, Collaborazione e Cultura sono pilastri dell'elemento People. Il ciclo di vita del progetto appartiene invece alla struttura dei Processi."
+            },
+            {
+                "id": 484,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Business Case' practice?",
+                "options": [
+                "A. To define the technical specifications of the products",
+                "B. To provide a justification for the project and enable decision-making",
+                "C. To manage the day-to-day work of the team",
+                "D. To document all the quality tests"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Business Case serve a giustificare l'investimento e a permettere al Project Board di decidere se il progetto è ancora desiderabile e fattibile."
+            },
+            {
+                "id": 485,
+                "category": "Understand practices",
+                "question": "Which role represents the 'Business' interest on the Project Board?",
+                "options": [
+                "A. Senior User",
+                "B. Executive",
+                "C. Senior Supplier",
+                "D. Project Manager"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Executive è il responsabile ultimo del Business Case e assicura che il progetto offra un buon rapporto qualità-prezzo per l'azienda."
+            },
+            {
+                "id": 486,
+                "category": "Understand practices",
+                "question": "What is the primary purpose of the 'Progress' practice?",
+                "options": [
+                "A. To ensure the project team works faster",
+                "B. To monitor and compare actual achievements against planned targets",
+                "C. To record all the lessons from the project",
+                "D. To hire new resources when needed"
+                ],
+                "correct_answer": "B",
+                "explanation": "La pratica del Progresso fornisce i meccanismi per controllare se il progetto sta rispettando i piani (baseline)."
+            },
+            {
+                "id": 487,
+                "category": "Understand processes",
+                "question": "Which process is used to provide the Project Board with the necessary information to authorize the initiation stage?",
+                "options": [
+                "A. Starting up a project",
+                "B. Initiating a project",
+                "C. Directing a project",
+                "D. Managing a stage boundary"
+                ],
+                "correct_answer": "A",
+                "explanation": "Il processo 'Starting up a project' (SU) avviene nel pre-progetto per verificare se c'è un motivo valido per avviare l'iniziazione."
+            },
+            {
+                "id": 488,
+                "category": "Understand key concepts",
+                "question": "Which of the following is an example of an 'Output'?",
+                "options": [
+                "A. Increased revenue by 10%",
+                "B. A new payroll system software",
+                "C. Improved employee satisfaction",
+                "D. Quicker processing of invoices"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'output è il prodotto fisico o intangibile creato dal progetto; gli altri esempi sono Benefici o Risultati (Outcomes)."
+            },
+            {
+                "id": 489,
+                "category": "Understand principles",
+                "question": "Which principle is being ignored if a Project Manager does not update the 'Lessons Log' throughout the project?",
+                "options": [
+                "A. Focus on products",
+                "B. Learn from experience",
+                "C. Manage by stages",
+                "D. Defined roles and responsibilities"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il principio 'Learn from experience' richiede che le lezioni siano ricercate e registrate attivamente durante tutto il ciclo di vita."
+            },
+            {
+                "id": 490,
+                "category": "Understand people",
+                "question": "What does 'Ecosystem' refer to in the People element of PRINCE2 7?",
+                "options": [
+                "A. The environmental impact of the project",
+                "B. The wider organizational context and relationships involving the project",
+                "C. The software tools used for project management",
+                "D. The physical layout of the project office"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'ecosistema riguarda le relazioni tra il progetto, l'organizzazione madre e le entità esterne (fornitori, partner, ecc.)."
+            },
+            {
+                "id": 491,
+                "category": "Understand practices",
+                "question": "Which of the following are types of 'Issue' in PRINCE2? 1. Request for change. 2. Off-specification. 3. Opportunity. 4. Problem/Concern.",
+                "options": [
+                "A. 1, 2, 3",
+                "B. 2, 3, 4",
+                "C. 1, 2, 4",
+                "D. 1, 3, 4"
+                ],
+                "correct_answer": "C",
+                "explanation": "Le issue formali sono RFC, fuori specifica e problemi. Un'opportunità è un tipo di Rischio, non una Issue."
+            },
+            {
+                "id": 492,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Plans' practice?",
+                "options": [
+                "A. To provide a schedule of activities only",
+                "B. To provide the means for progress and performance control",
+                "C. To list the contact details of stakeholders",
+                "D. To document the technical design of the products"
+                ],
+                "correct_answer": "B",
+                "explanation": "I piani servono a definire come, quando e da chi i prodotti verranno consegnati, fungendo da baseline per il controllo."
+            },
+            {
+                "id": 493,
+                "category": "Understand processes",
+                "question": "Which process is used by the Project Board to authorize a stage plan for the next stage?",
+                "options": [
+                "A. Managing a stage boundary",
+                "B. Controlling a stage",
+                "C. Directing a project",
+                "D. Initiating a project"
+                ],
+                "correct_answer": "C",
+                "explanation": "In 'Directing a project', il Board prende la decisione di autorizzare lo stage successivo basandosi sulle informazioni di SB."
+            },
+            {
+                "id": 494,
+                "category": "Understand practices",
+                "question": "Who is responsible for specifying the benefits of the project?",
+                "options": [
+                "A. Executive",
+                "B. Senior User",
+                "C. Senior Supplier",
+                "D. Project Manager"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Senior User rappresenta gli utenti che otterranno i benefici dall'uso dei prodotti, quindi è lui a doverli specificare."
+            },
+            {
+                "id": 495,
+                "category": "Understand key concepts",
+                "question": "Identify the missing word: A [?] is a negative consequence of an investment.",
+                "options": [
+                "A. Risk",
+                "B. Dis-benefit",
+                "C. Issue",
+                "D. Constraint"
+                ],
+                "correct_answer": "B",
+                "explanation": "Un dis-beneficio è un risultato negativo previsto che deriva dal progetto (es. un temporaneo calo di produttività)."
+            },
+            {
+                "id": 496,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when a Project Manager creates a detailed 'Product Description'?",
+                "options": [
+                "A. Focus on products",
+                "B. Manage by exception",
+                "C. Manage by stages",
+                "D. Tailor to suit the project"
+                ],
+                "correct_answer": "A",
+                "explanation": "Il principio 'Focus on products' sottolinea l'importanza di definire cosa il progetto deve consegnare prima di pianificare il lavoro."
+            },
+            {
+                "id": 497,
+                "category": "Understand people",
+                "question": "What is the purpose of 'Collaboration' in a PRINCE2 7 project team?",
+                "options": [
+                "A. To ensure the Project Manager makes all decisions alone",
+                "B. To work together effectively with stakeholders towards shared goals",
+                "C. To increase the number of formal meetings",
+                "D. To reduce the need for project documentation"
+                ],
+                "correct_answer": "B",
+                "explanation": "La collaborazione mira a creare sinergia tra i membri del team e gli stakeholder per migliorare i risultati."
+            },
+            {
+                "id": 498,
+                "category": "Understand practices",
+                "question": "What is 'Quality Planning'?",
+                "options": [
+                "A. Testing products to find defects",
+                "B. Defining the standards and criteria that products must meet",
+                "C. Training the project team",
+                "D. Writing the end stage report"
+                ],
+                "correct_answer": "B",
+                "explanation": "Pianificare la qualità significa stabilire in anticipo i criteri di accettazione e i metodi di controllo."
+            },
+            {
+                "id": 499,
+                "category": "Understand practices",
+                "question": "In risk management, what is 'Proximity'?",
+                "options": [
+                "A. The severity of the risk",
+                "B. How soon the risk event is likely to occur",
+                "C. The cost of the risk response",
+                "D. The number of people affected by the risk"
+                ],
+                "correct_answer": "B",
+                "explanation": "La prossimità indica la tempistica del rischio, fondamentale per capire l'urgenza delle azioni di mitigazione."
+            },
+            {
+                "id": 500,
+                "category": "Understand processes",
+                "question": "Which process is used by the Team Manager to manage the technical creation of products?",
+                "options": [
+                "A. Controlling a stage",
+                "B. Managing product delivery",
+                "C. Managing a stage boundary",
+                "D. Starting up a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il processo 'Managing product delivery' è il punto di contatto tra il PM e il Team Manager per la realizzazione dei prodotti."
+            },
+            {
+                "id": 501,
+                "category": "Understand key concepts",
+                "question": "Which performance aspect relates to the project's impact on the environment and society?",
+                "options": [
+                "A. Quality",
+                "B. Benefits",
+                "C. Sustainability",
+                "D. Scope"
+                ],
+                "correct_answer": "C",
+                "explanation": "In PRINCE2 7, la sostenibilità è il settimo aspetto di performance, focalizzato sugli impatti sociali, ambientali ed economici a lungo termine."
+            },
+            {
+                "id": 502,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when management products are simplified for a low-risk project?",
+                "options": [
+                "A. Manage by stages",
+                "B. Focus on products",
+                "C. Tailor to suit the project",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "C",
+                "explanation": "Adattare i prodotti di gestione alla complessità e al rischio del progetto è un esempio di 'Tailoring'."
+            },
+            {
+                "id": 503,
+                "category": "Understand people",
+                "question": "Which leadership style involves providing support and guidance rather than just giving orders?",
+                "options": [
+                "A. Dictatorial",
+                "B. Servant Leadership",
+                "C. Administrative",
+                "D. Silent"
+                ],
+                "correct_answer": "B",
+                "explanation": "La 'Servant Leadership' (leadership di servizio) è un concetto chiave in PRINCE2 7 per favorire l'empowerment del team."
+            },
+            {
+                "id": 504,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Risk Register'?",
+                "options": [
+                "A. To record all formal issues",
+                "B. To capture and maintain information on identified risks and their status",
+                "C. To document all the quality test results",
+                "D. To store the contact details of stakeholders"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il registro dei rischi è lo strumento centrale per monitorare le minacce e le opportunità identificate."
+            },
+            {
+                "id": 505,
+                "category": "Understand practices",
+                "question": "Who is responsible for 'Project Assurance' for the User interest?",
+                "options": [
+                "A. Executive",
+                "B. Senior User",
+                "C. Senior Supplier",
+                "D. Project Manager"
+                ],
+                "correct_answer": "B",
+                "explanation": "Ogni membro del Board è responsabile dell'assicurazione (Project Assurance) per la propria area di interesse."
+            },
+            {
+                "id": 506,
+                "category": "Understand practices",
+                "question": "What does 'Manage by Exception' allow the Project Board to do?",
+                "options": [
+                "A. Manage the day-to-day work of the teams",
+                "B. Delegate authority to the Project Manager within set limits",
+                "C. Ignore the project until it is finished",
+                "D. Personally perform all quality tests"
+                ],
+                "correct_answer": "B",
+                "explanation": "Permette al Board di delegare la gestione quotidiana al PM, intervenendo solo se le tolleranze sono a rischio (eccezioni)."
+            },
+            {
+                "id": 507,
+                "category": "Understand processes",
+                "question": "Which activity is part of 'Closing a project'?",
+                "options": [
+                "A. Planning the next stage",
+                "B. Handing over products and documentation to the users",
+                "C. Authorizing the project initiation",
+                "D. Recruiting the project team"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il passaggio di consegne (handover) è un'attività fondamentale del processo di chiusura."
+            },
+            {
+                "id": 508,
+                "category": "Understand key concepts",
+                "question": "What is an 'Outcome'?",
+                "options": [
+                "A. A specialist product delivered by the project",
+                "B. The result of a change derived from using the project's outputs",
+                "C. A measurable improvement felt by a stakeholder",
+                "D. The cost of the project"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'outcome è il cambiamento che si verifica quando gli utenti iniziano a usare i prodotti del progetto."
+            },
+            {
+                "id": 509,
+                "category": "Understand principles",
+                "question": "Which principle is being followed when a project is divided into at least two management stages?",
+                "options": [
+                "A. Manage by stages",
+                "B. Manage by exception",
+                "C. Focus on products",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "A",
+                "explanation": "PRINCE2 richiede almeno lo stage di iniziazione e uno di consegna per garantire il controllo."
+            },
+            {
+                "id": 510,
+                "category": "Understand people",
+                "question": "Identify the missing word: Organizational [?] describes the shared values and attitudes of a company.",
+                "options": [
+                "A. Structure",
+                "B. Culture",
+                "C. Policy",
+                "D. Hierarchy"
+                ],
+                "correct_answer": "B",
+                "explanation": "La cultura organizzativa influenza pesantemente il modo in cui i progetti vengono gestiti e accettati."
+            },
+            {
+                "id": 511,
+                "category": "Understand practices",
+                "question": "Which statement about 'Tolerances' is CORRECT?",
+                "options": [
+                "A. They are only set for cost and time",
+                "B. they define the allowable deviation from plan targets",
+                "C. They are decided by the Project Manager",
+                "D. They must be zero in a successful project"
+                ],
+                "correct_answer": "B",
+                "explanation": "Le tolleranze sono i margini di manovra concessi al PM su tutti i sette aspetti di performance."
+            },
+            {
+                "id": 512,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Communication Management Approach'?",
+                "options": [
+                "A. To list the passwords for the project software",
+                "B. To define how and when stakeholders will receive project information",
+                "C. To manage the project's bank accounts",
+                "D. To order the mobile phones for the team"
+                ],
+                "correct_answer": "B",
+                "explanation": "Definisce la strategia per assicurare che le persone giuste ricevano le informazioni giuste al momento giusto."
+            },
+            {
+                "id": 513,
+                "category": "Understand processes",
+                "question": "Which process ensures that all management approaches are finalized?",
+                "options": [
+                "A. Starting up a project",
+                "B. Initiating a project",
+                "C. Directing a project",
+                "D. Controlling a stage"
+                ],
+                "correct_answer": "B",
+                "explanation": "In 'Initiating a project' (IP), il PM definisce nel dettaglio come verranno gestiti rischi, qualità, comunicazioni, ecc."
+            },
+            {
+                "id": 514,
+                "category": "Understand practices",
+                "question": "Who represents the technical expertise and the creation of products on the Project Board?",
+                "options": [
+                "A. Senior User",
+                "B. Executive",
+                "C. Senior Supplier",
+                "D. Project Support"
+                ],
+                "correct_answer": "C",
+                "explanation": "Il Senior Supplier rappresenta gli interessi di chi fornisce le risorse e le competenze per costruire i prodotti."
+            },
+            {
+                "id": 515,
+                "category": "Understand key concepts",
+                "question": "Which of the following is NOT an aspect of project performance?",
+                "options": [
+                "A. Benefits",
+                "B. Cost",
+                "C. Motivation",
+                "D. Risk"
+                ],
+                "correct_answer": "C",
+                "explanation": "La motivazione è cruciale (People), ma non è uno dei sette aspetti di performance ufficiali misurati tramite tolleranze."
+            },
+            {
+                "id": 516,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when the Project Manager uses a template from a previous project?",
+                "options": [
+                "A. Focus on products",
+                "B. Learn from experience",
+                "C. Manage by exception",
+                "D. Manage by stages"
+                ],
+                "correct_answer": "B",
+                "explanation": "Riutilizzare strumenti o approcci che hanno funzionato in passato è un esempio di apprendimento dall'esperienza."
+            },
+            {
+                "id": 517,
+                "category": "Understand people",
+                "question": "What is 'Psychological Safety'?",
+                "options": [
+                "A. Having a secure office building",
+                "B. An environment where team members feel safe to speak up and share ideas without fear",
+                "C. A background check for all employees",
+                "D. Having insurance against project failure"
+                ],
+                "correct_answer": "B",
+                "explanation": "La sicurezza psicologica è fondamentale in PRINCE2 7 per favorire l'onestà e la gestione proattiva dei problemi."
+            },
+            {
+                "id": 518,
+                "category": "Understand practices",
+                "question": "Which management product is used by the Project Manager to record informal notes?",
+                "options": [
+                "A. Issue Register",
+                "B. Daily Log",
+                "C. Risk Register",
+                "D. Quality Register"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Daily Log è il diario informale del PM per annotare eventi quotidiani e problemi minori."
+            },
+            {
+                "id": 519,
+                "category": "Understand practices",
+                "question": "What is the primary objective of 'Change Control'?",
+                "options": [
+                "A. To prevent any changes from happening",
+                "B. To ensure that proposed changes are assessed and authorized before implementation",
+                "C. To change the Project Manager frequently",
+                "D. To update the project budget daily"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il controllo dei cambiamenti serve a gestire le modifiche all'ambito in modo ordinato e consapevole."
+            },
+            {
+                "id": 520,
+                "category": "Understand processes",
+                "question": "In which process does the Project Manager report an 'Exception' to the Board?",
+                "options": [
+                "A. Controlling a stage",
+                "B. Managing product delivery",
+                "C. Managing a stage boundary",
+                "D. Initiating a project"
+                ],
+                "correct_answer": "A",
+                "explanation": "È durante 'Controlling a stage' che il PM si accorge dello scostamento e produce l'Exception Report."
+            },
+            {
+                "id": 521,
+                "category": "Understand key concepts",
+                "question": "Which characteristic of a project involves people from different departments working together? 1. Unique. 2. Cross-functional. 3. Temporary. 4. BAU.",
+                "options": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+                ],
+                "correct_answer": "B",
+                "explanation": "Cross-functional significa che il team del progetto unisce diverse competenze e aree aziendali."
+            },
+            {
+                "id": 522,
+                "category": "Understand principles",
+                "question": "Which principle is being ignored if a project has no defined roles and responsibilities?",
+                "options": [
+                "A. Focus on products",
+                "B. Manage by exception",
+                "C. Defined roles, responsibilities and relationships",
+                "D. Manage by stages"
+                ],
+                "correct_answer": "C",
+                "explanation": "Tutti i membri del team devono sapere cosa ci si aspetta da loro e dagli altri."
+            },
+            {
+                "id": 523,
+                "category": "Understand people",
+                "question": "What is the benefit of 'Co-creation'?",
+                "options": [
+                "A. Higher costs",
+                "B. Increased buy-in and products that are better fit for purpose",
+                "C. Fewer stakeholders to manage",
+                "D. Faster technical coding"
+                ],
+                "correct_answer": "B",
+                "explanation": "Coinvolgere gli utenti nella creazione assicura che il prodotto finale sia realmente utile."
+            },
+            {
+                "id": 524,
+                "category": "Understand practices",
+                "question": "Which of the following describes 'Residual Risk'?",
+                "options": [
+                "A. The risk before any response is taken",
+                "B. The risk remaining after a response has been implemented",
+                "C. A risk that has already happened",
+                "D. A risk that was forgotten"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il rischio residuo è ciò che rimane dopo aver messo in atto le azioni di mitigazione."
+            },
+            {
+                "id": 525,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Quality Register'?",
+                "options": [
+                "A. To list the salaries of the quality team",
+                "B. To summarize all planned and completed quality activities",
+                "C. To record all the bugs in the code",
+                "D. To act as a user manual"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il registro della qualità traccia test, revisioni e approvazioni durante tutto il progetto."
+            },
+            {
+                "id": 526,
+                "category": "Understand practices",
+                "question": "Who defines the 'Acceptance Criteria' for the project?",
+                "options": [
+                "A. Project Manager",
+                "B. Senior User (with Executive)",
+                "C. Senior Supplier",
+                "D. Project Support"
+                ],
+                "correct_answer": "B",
+                "explanation": "I criteri di accettazione definiscono cosa renderà il prodotto finale accettabile per l'utente e il business."
+            },
+            {
+                "id": 527,
+                "category": "Understand processes",
+                "question": "Which process is used to prepare the project for a Go/No-Go decision at the end of a stage?",
+                "options": [
+                "A. Controlling a stage",
+                "B. Managing a stage boundary",
+                "C. Closing a project",
+                "D. Starting up a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "In 'Managing a stage boundary' si preparano i piani e i report necessari affinché il Board decida il futuro del progetto."
+            },
+            {
+                "id": 528,
+                "category": "Understand processes",
+                "question": "Who is responsible for the 'Checkpoint Report'?",
+                "options": [
+                "A. Project Manager",
+                "B. Team Manager",
+                "C. Project Board",
+                "D. Project Support"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Team Manager invia il Checkpoint Report al PM per informarlo sull'avanzamento del Work Package."
+            },
+            {
+                "id": 529,
+                "category": "Understand key concepts",
+                "question": "Which of the following is a 'Benefit'?",
+                "options": [
+                "A. A new CRM software",
+                "B. 15% increase in customer retention",
+                "C. The project team members",
+                "D. The training manual"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'aumento della fidelizzazione è un miglioramento misurabile che deriva dall'uso del software (output)."
+            },
+            {
+                "id": 530,
+                "category": "Understand principles",
+                "question": "Which principle states that a project must be desirable, viable and achievable?",
+                "options": [
+                "A. Focus on products",
+                "B. Continued business justification",
+                "C. Manage by exception",
+                "D. Tailor to suit the project"
+                ],
+                "correct_answer": "B",
+                "explanation": "La giustificazione commerciale deve essere presente dall'inizio alla fine (Business Case)."
+            },
+            {
+                "id": 531,
+                "category": "Understand people",
+                "question": "What is the primary role of 'Leadership' in PRINCE2 7?",
+                "options": [
+                "A. To order the team to work overtime",
+                "B. To motivate and influence people to achieve objectives",
+                "C. To manage the project budget",
+                "D. To write the project plans"
+                ],
+                "correct_answer": "B",
+                "explanation": "La leadership riguarda la guida e l'ispirazione delle persone, non solo la gestione tecnica."
+            },
+            {
+                "id": 532,
+                "category": "Understand practices",
+                "question": "Which document is the 'contract' for management between the Board and the PM?",
+                "options": [
+                "A. Project Brief",
+                "B. Project Initiation Documentation (PID)",
+                "C. Stage Plan",
+                "D. Business Case"
+                ],
+                "correct_answer": "B",
+                "explanation": "La PID consolida tutte le informazioni necessarie per avviare la gestione formale del progetto."
+            },
+            {
+                "id": 533,
+                "category": "Understand practices",
+                "question": "What is 'Scope Creep'?",
+                "options": [
+                "A. A fast way to finish the project",
+                "B. The uncontrolled expansion of project scope",
+                "C. A project risk response",
+                "D. A way to update the budget"
+                ],
+                "correct_answer": "B",
+                "explanation": "Lo 'Scope Creep' avviene quando si aggiungono requisiti senza valutare l'impatto sui tempi e sui costi."
+            },
+            {
+                "id": 534,
+                "category": "Understand practices",
+                "question": "Which role represents the interests of those who will maintain the products?",
+                "options": [
+                "A. Senior User",
+                "B. Senior Supplier",
+                "C. Executive",
+                "D. Project Support"
+                ],
+                "correct_answer": "A",
+                "explanation": "Il Senior User rappresenta sia chi usa i prodotti che chi deve gestirli operativamente (BAU)."
+            },
+            {
+                "id": 535,
+                "category": "Understand processes",
+                "question": "Which process covers the review of a completed Work Package?",
+                "options": [
+                "A. Managing product delivery",
+                "B. Controlling a stage",
+                "C. Managing a stage boundary",
+                "D. Directing a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "In 'Controlling a stage', il PM riceve e verifica i prodotti consegnati dal Team Manager."
+            },
+            {
+                "id": 536,
+                "category": "Understand processes",
+                "question": "What is the trigger for 'Starting up a project'?",
+                "options": [
+                "A. Project Brief",
+                "B. Project Mandate",
+                "C. Project Plan",
+                "D. PID"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il mandato (Mandate) è l'input esterno (solitamente dal livello Corporate) che dà il via al pre-progetto."
+            },
+            {
+                "id": 537,
+                "category": "Understand key concepts",
+                "question": "Which of the following describes 'Business as Usual'?",
+                "options": [
+                "A. Temporary and unique",
+                "B. Repetitive and ongoing operations",
+                "C. Managed using management stages",
+                "D. Introduces a major change"
+                ],
+                "correct_answer": "B",
+                "explanation": "BAU è l'attività quotidiana stabile dell'organizzazione, a differenza dei progetti."
+            },
+            {
+                "id": 538,
+                "category": "Understand principles",
+                "question": "Which principle is supported by the use of 'Product Descriptions'?",
+                "options": [
+                "A. Focus on products",
+                "B. Manage by exception",
+                "C. Manage by stages",
+                "D. Tailor to suit the project"
+                ],
+                "correct_answer": "A",
+                "explanation": "Le descrizioni dei prodotti chiariscono lo scopo e la qualità dei componenti da consegnare."
+            },
+            {
+                "id": 539,
+                "category": "Understand people",
+                "question": "What does 'Competency' refer to in the People element?",
+                "options": [
+                "A. The cost of a person",
+                "B. The skills, knowledge and experience of people in the project",
+                "C. The hierarchy of the company",
+                "D. The number of tools used"
+                ],
+                "correct_answer": "B",
+                "explanation": "La competenza assicura che le persone assegnate ai ruoli abbiano le capacità per svolgere i compiti."
+            },
+            {
+                "id": 540,
+                "category": "Understand processes",
+                "question": "Which process provides a fixed point at which acceptance of the final product is confirmed?",
+                "options": [
+                "A. Managing product delivery",
+                "B. Closing a project",
+                "C. Managing a stage boundary",
+                "D. Directing a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "In 'Closing a project' si verifica che i prodotti siano stati accettati e che il progetto possa finire in modo ordinato."
+            },
+            {
+                "id": 541,
+                "category": "Understand key concepts",
+                "question": "Which of the following is NOT an aspect of project performance?",
+                "options": [
+                "A. Sustainability",
+                "B. Reliability",
+                "C. Scope",
+                "D. Benefits"
+                ],
+                "correct_answer": "B",
+                "explanation": "Sebbene la 'Reliability' (affidabilità) sia importante per la qualità, non è uno dei sette aspetti di performance monitorati formalmente tramite tolleranze in PRINCE2 7."
+            },
+            {
+                "id": 542,
+                "category": "Understand principles",
+                "question": "The principle 'Focus on products' supports which of the following? 1. Quality expectations. 2. Project budget. 3. Product descriptions. 4. Resource salaries.",
+                "options": [
+                "A. 1 and 3",
+                "B. 2 and 4",
+                "C. 1 and 2",
+                "D. 3 and 4"
+                ],
+                "correct_answer": "A",
+                "explanation": "Il focus sui prodotti richiede la definizione delle aspettative di qualità e l'uso di Product Descriptions dettagliate per guidare il lavoro."
+            },
+            {
+                "id": 543,
+                "category": "Understand people",
+                "question": "In PRINCE2 7, what is 'Organizational Ecosystem'?",
+                "options": [
+                "A. The IT network of the project",
+                "B. The environment containing stakeholders, both internal and external to the project",
+                "C. The environmental management system of the company",
+                "D. The hierarchy of the specialist team"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'ecosistema organizzativo comprende tutte le persone e le entità (interne ed esterne) che influenzano o sono influenzate dal progetto."
+            },
+            {
+                "id": 544,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Business Case' practice?",
+                "options": [
+                "A. To provide a high-level technical architecture",
+                "B. To provide a justification for the project that is desirable, viable and achievable",
+                "C. To document the minutes of project meetings",
+                "D. To record the names of all suppliers"
+                ],
+                "correct_answer": "B",
+                "explanation": "La pratica del Business Case serve a garantire che l'investimento sia giustificato e che il progetto valga la pena di essere portato avanti."
+            },
+            {
+                "id": 545,
+                "category": "Understand practices",
+                "question": "Which role represents the interests of those who will maintain the project's products?",
+                "options": [
+                "A. Senior Supplier",
+                "B. Senior User",
+                "C. Project Support",
+                "D. Executive"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Senior User rappresenta gli stakeholder che utilizzeranno i prodotti o che li gestiranno operativamente dopo la chiusura."
+            },
+            {
+                "id": 546,
+                "category": "Understand practices",
+                "question": "What is the main objective of the 'Organizing' practice?",
+                "options": [
+                "A. To schedule tasks in a Gantt chart",
+                "B. To define the project's structure of accountability and responsibilities",
+                "C. To manage the project's financial accounts",
+                "D. To order equipment for the office"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Organizing chiarisce chi deve prendere decisioni, chi deve gestire e chi deve eseguire il lavoro (Accountability e Responsibility)."
+            },
+            {
+                "id": 547,
+                "category": "Understand practices",
+                "question": "Which of the following is a type of 'Plan' in PRINCE2? 1. Team Plan. 2. Stage Plan. 3. Personal Development Plan. 4. Exception Plan.",
+                "options": [
+                "A. 1, 2, 3",
+                "B. 1, 2, 4",
+                "C. 2, 3, 4",
+                "D. All of the above"
+                ],
+                "correct_answer": "B",
+                "explanation": "PRINCE2 riconosce piani di Progetto, Stage, Team ed Eccezione. Il piano di sviluppo personale non è un prodotto di gestione PRINCE2."
+            },
+            {
+                "id": 548,
+                "category": "Understand practices",
+                "question": "A request to modify a baseline product is classified as which type of issue?",
+                "options": [
+                "A. Off-specification",
+                "B. Problem",
+                "C. Request for Change",
+                "D. Risk"
+                ],
+                "correct_answer": "C",
+                "explanation": "Una proposta di modifica a qualcosa che è già stato approvato (baseline) è una Request for Change (Richiesta di Modifica)."
+            },
+            {
+                "id": 549,
+                "category": "Understand practices",
+                "question": "Which practice establishes the mechanisms to compare actual achievements against planned ones?",
+                "options": [
+                "A. Plans",
+                "B. Progress",
+                "C. Quality",
+                "D. Organizing"
+                ],
+                "correct_answer": "B",
+                "explanation": "La pratica del Progresso monitora l'avanzamento reale rispetto alle baseline per consentire il controllo."
+            },
+            {
+                "id": 550,
+                "category": "Understand processes",
+                "question": "Which process is used to provide the Project Board with the necessary information to authorize the initiation of a project?",
+                "options": [
+                "A. Starting up a project",
+                "B. Initiating a project",
+                "C. Directing a project",
+                "D. Controlling a stage"
+                ],
+                "correct_answer": "A",
+                "explanation": "SU (Starting up a project) è il pre-progetto in cui si verifica se l'idea del progetto ha senso e si prepara l'iniziazione."
+            },
+            {
+                "id": 551,
+                "category": "Understand key concepts",
+                "question": "Which characteristic of a project involves people from different functional areas working together?",
+                "options": [
+                "A. Unique",
+                "B. Cross-functional",
+                "C. Temporary",
+                "D. Uncertain"
+                ],
+                "correct_answer": "B",
+                "explanation": "Un progetto è cross-funzionale perché unisce competenze diverse che normalmente non lavorano insieme nel quotidiano."
+            },
+            {
+                "id": 552,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when a project team documents lessons to avoid repeating mistakes?",
+                "options": [
+                "A. Focus on products",
+                "B. Manage by exception",
+                "C. Learn from experience",
+                "D. Tailor to suit the project"
+                ],
+                "correct_answer": "C",
+                "explanation": "Il principio 'Learn from experience' richiede di imparare sia dai successi che dai fallimenti, registrandoli nel Lessons Log."
+            },
+            {
+                "id": 553,
+                "category": "Understand people",
+                "question": "What is 'Capability' in the context of the People element?",
+                "options": [
+                "A. The budget available for hiring staff",
+                "B. The skills, knowledge and experience of the project team members",
+                "C. The speed of the project's internet connection",
+                "D. The capacity of the organization to host multiple projects"
+                ],
+                "correct_answer": "B",
+                "explanation": "La Capability (capacità) si riferisce alle competenze umane necessarie per svolgere il lavoro del progetto."
+            },
+            {
+                "id": 554,
+                "category": "Understand practices",
+                "question": "Which management product contains the 'Project Product Description'?",
+                "options": [
+                "A. Project Plan",
+                "B. Project Brief",
+                "C. Stage Plan",
+                "D. Daily Log"
+                ],
+                "correct_answer": "B",
+                "explanation": "La descrizione del prodotto finale (Project Product Description) viene creata in SU e inserita nel Project Brief."
+            },
+            {
+                "id": 555,
+                "category": "Understand practices",
+                "question": "What is a 'Residual Risk'?",
+                "options": [
+                "A. A risk that has already happened",
+                "B. The risk remaining after risk responses have been implemented",
+                "C. A risk that was not identified during the assessment",
+                "D. The cost of a risk response"
+                ],
+                "correct_answer": "B",
+                "explanation": "Anche dopo aver mitigato un rischio, può rimanere una parte residua che non può essere eliminata."
+            },
+            {
+                "id": 556,
+                "category": "Understand practices",
+                "question": "Which role is responsible for ensuring that the project's products meet user expectations?",
+                "options": [
+                "A. Senior Supplier",
+                "B. Executive",
+                "C. Senior User",
+                "D. Project Support"
+                ],
+                "correct_answer": "C",
+                "explanation": "Il Senior User rappresenta gli utenti e deve garantire che i prodotti siano 'fit for purpose' rispetto alle loro esigenze."
+            },
+            {
+                "id": 557,
+                "category": "Understand practices",
+                "question": "Identify the missing word: The project [?] provides administrative support and advice on tools to the project manager.",
+                "options": [
+                "A. Board",
+                "B. Support",
+                "C. Office",
+                "D. Specialist"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il ruolo di Project Support fornisce assistenza tecnica e amministrativa (es. gestione dei registri)."
+            },
+            {
+                "id": 558,
+                "category": "Understand practices",
+                "question": "What is 'Quality Control'?",
+                "options": [
+                "A. Defining the quality standards for the company",
+                "B. The process of inspecting and testing products to verify they meet criteria",
+                "C. Setting the project budget for testing",
+                "D. Writing the quality management approach"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il controllo qualità riguarda le attività operative (test, ispezioni) eseguite durante lo stage."
+            },
+            {
+                "id": 559,
+                "category": "Understand practices",
+                "question": "A situation where a tolerance is forecast to be exceeded is called what?",
+                "options": [
+                "A. An Issue",
+                "B. An Exception",
+                "C. A Risk",
+                "D. A Change"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'eccezione si verifica quando il PM prevede di uscire dai limiti di tolleranza concordati con il Board."
+            },
+            {
+                "id": 560,
+                "category": "Understand processes",
+                "question": "Which process is used by the Project Manager to manage the daily activities of a management stage?",
+                "options": [
+                "A. Directing a project",
+                "B. Controlling a stage",
+                "C. Managing product delivery",
+                "D. Initiating a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "CS (Controlling a stage) è il processo quotidiano del PM per monitorare, reportare e reagire ai problemi."
+            },
+            {
+                "id": 561,
+                "category": "Understand key concepts",
+                "question": "Which performance variable refers to the impact of the project on environmental and social factors?",
+                "options": [
+                "A. Benefits",
+                "B. Sustainability",
+                "C. Quality",
+                "D. Scope"
+                ],
+                "correct_answer": "B",
+                "explanation": "La sostenibilità (Sustainability) è stata introdotta in PRINCE2 7 per monitorare l'impatto etico, sociale e ambientale."
+            },
+            {
+                "id": 562,
+                "category": "Understand principles",
+                "question": "Which principle states that a PRINCE2 project has defined and agreed roles, responsibilities and relationships?",
+                "options": [
+                "A. Manage by stages",
+                "B. Defined roles, responsibilities and relationships",
+                "C. Focus on products",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "B",
+                "explanation": "Questo principio assicura che tutti sappiano cosa ci si aspetta da loro e come relazionarsi con gli altri membri del team."
+            },
+            {
+                "id": 563,
+                "category": "Understand people",
+                "question": "Why is 'Collaboration' important in PRINCE2 7?",
+                "options": [
+                "A. To allow everyone to work on whatever they want",
+                "B. To foster mutual trust and working together to achieve project outcomes",
+                "C. To increase the number of stakeholders",
+                "D. To reduce the authority of the Project Manager"
+                ],
+                "correct_answer": "B",
+                "explanation": "La collaborazione è fondamentale per creare un ambiente produttivo e allineato sugli obiettivi comuni."
+            },
+            {
+                "id": 564,
+                "category": "Understand practices",
+                "question": "Which document defines how and when the project's progress will be reported?",
+                "options": [
+                "A. Communication management approach",
+                "B. Quality management approach",
+                "C. Risk management approach",
+                "D. Project Brief"
+                ],
+                "correct_answer": "A",
+                "explanation": "L'approccio alla gestione delle comunicazioni stabilisce chi riceve quali report e con quale frequenza."
+            },
+            {
+                "id": 565,
+                "category": "Understand practices",
+                "question": "Identify the missing word: The project [?] Register records all planned and completed quality activities.",
+                "options": [
+                "A. Risk",
+                "B. Issue",
+                "C. Quality",
+                "D. Product"
+                ],
+                "correct_answer": "C",
+                "explanation": "Il Quality Register è lo strumento per tracciare i test e le approvazioni dei prodotti."
+            },
+            {
+                "id": 566,
+                "category": "Understand practices",
+                "question": "Which role is responsible for the 'Benefits Management Approach'?",
+                "options": [
+                "A. Project Manager",
+                "B. Senior User",
+                "C. Executive",
+                "D. Senior Supplier"
+                ],
+                "correct_answer": "C",
+                "explanation": "L'Executive è il responsabile ultimo del Business Case e della realizzazione dei benefici."
+            },
+            {
+                "id": 567,
+                "category": "Understand practices",
+                "question": "In risk management, what is 'Impact'?",
+                "options": [
+                "A. The probability of a risk happening",
+                "B. The effect of a risk event on project objectives",
+                "C. The distance of the risk from the project site",
+                "D. The number of people identifying the risk"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'impatto descrive l'entità delle conseguenze (positive o negative) se il rischio si verificasse."
+            },
+            {
+                "id": 568,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Issue Register'?",
+                "options": [
+                "A. To store all project risks",
+                "B. To capture and maintain information on all formal issues",
+                "C. To record the names of the project team",
+                "D. To act as a project diary"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Issue Register tiene traccia di tutte le richieste di modifica, fuori specifica e problemi generali."
+            },
+            {
+                "id": 569,
+                "category": "Understand practices",
+                "question": "Which of the following is NOT a type of tolerance in PRINCE2? 1. Weather. 2. Time. 3. Scope. 4. Benefits.",
+                "options": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+                ],
+                "correct_answer": "A",
+                "explanation": "Il meteo (Weather) non è un aspetto di performance; PRINCE2 ha 7 tolleranze specifiche (Time, Cost, Quality, Scope, Risk, Benefits, Sustainability)."
+            },
+            {
+                "id": 570,
+                "category": "Understand processes",
+                "question": "Which process is used by the Project Board to take decisions at key points in the project lifecycle?",
+                "options": [
+                "A. Starting up a project",
+                "B. Directing a project",
+                "C. Controlling a stage",
+                "D. Managing product delivery"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Board usa DP (Directing a project) per autorizzare stage, cambiamenti ed eccezioni."
+            },
+            {
+                "id": 571,
+                "category": "Understand key concepts",
+                "question": "What is 'Business as Usual'?",
+                "options": [
+                "A. A temporary organization for change",
+                "B. The day-to-day operations of an organization",
+                "C. A project that is running on time",
+                "D. A new product being launched"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Business as Usual è l'operatività ordinaria, che si distingue dai progetti per la sua natura ripetitiva."
+            },
+            {
+                "id": 572,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when the Project Manager uses a simpler version of PRINCE2 for a small project?",
+                "options": [
+                "A. Manage by exception",
+                "B. Tailor to suit the project",
+                "C. Focus on products",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il 'Tailoring' permette di adattare il metodo per renderlo efficace in base alla scala del progetto."
+            },
+            {
+                "id": 573,
+                "category": "Understand people",
+                "question": "What is the importance of 'Psychological Safety' in a project team?",
+                "options": [
+                "A. It prevents team members from quitting",
+                "B. It allows people to speak up about risks and concerns without fear",
+                "C. It is required by labor law",
+                "D. It ensures the office building is safe"
+                ],
+                "correct_answer": "B",
+                "explanation": "La sicurezza psicologica favorisce la trasparenza e la comunicazione onesta, vitali per la gestione del rischio."
+            },
+            {
+                "id": 574,
+                "category": "Understand practices",
+                "question": "Which statement about the 'Project Initiation Documentation' (PID) is CORRECT?",
+                "options": [
+                "A. It is created in SU and never updated",
+                "B. It provides a baseline for the management of the project",
+                "C. It is only needed for the Project Board members",
+                "D. It is used to record daily technical tasks"
+                ],
+                "correct_answer": "B",
+                "explanation": "La PID è il 'contratto' di gestione che definisce come il progetto verrà guidato e misurato."
+            },
+            {
+                "id": 575,
+                "category": "Understand practices",
+                "question": "What is a 'Work Package'?",
+                "options": [
+                "A. A box used to ship products",
+                "B. A set of information about products to be delivered by a team",
+                "C. A plan for the whole project",
+                "D. A report on the project budget"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Work Package è l'unità di delega tra il PM e il Team Manager per la creazione di prodotti."
+            },
+            {
+                "id": 576,
+                "category": "Understand practices",
+                "question": "Who defines the 'Acceptance Criteria' for the project product?",
+                "options": [
+                "A. Project Manager",
+                "B. Senior User (with the Executive)",
+                "C. Senior Supplier",
+                "D. Team Manager"
+                ],
+                "correct_answer": "B",
+                "explanation": "I criteri di accettazione sono stabiliti dagli utenti e dal business per dire quando il prodotto finale è pronto."
+            },
+            {
+                "id": 577,
+                "category": "Understand practices",
+                "question": "Identify the missing word: The project [?] Diary is another name for the Daily Log.",
+                "options": [
+                "A. Risk",
+                "B. Manager's",
+                "C. Board",
+                "D. Support"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Daily Log funge da diario del Project Manager per annotare eventi informali."
+            },
+            {
+                "id": 578,
+                "category": "Understand practices",
+                "question": "In risk management, what is 'Opportunity'?",
+                "options": [
+                "A. A task that was finished early",
+                "B. An uncertain event that could have a positive impact on objectives",
+                "C. A new job offer for a team member",
+                "D. A meeting with a potential customer"
+                ],
+                "correct_answer": "B",
+                "explanation": "In PRINCE2, un'opportunità è un rischio positivo che potrebbe portare benefici extra."
+            },
+            {
+                "id": 579,
+                "category": "Understand practices",
+                "question": "Which of the following describes 'Project Assurance'?",
+                "options": [
+                "A. Administrative help for the Project Manager",
+                "B. Independent check that the project is being managed correctly",
+                "C. A bank guarantee for the project funds",
+                "D. The technical testing of products"
+                ],
+                "correct_answer": "B",
+                "explanation": "La Project Assurance assicura al Board che il progetto stia seguendo i piani e gli standard concordati."
+            },
+            {
+                "id": 580,
+                "category": "Understand processes",
+                "question": "In which process is the 'Lessons Log' first created?",
+                "options": [
+                "A. Initiating a project",
+                "B. Starting up a project",
+                "C. Managing a stage boundary",
+                "D. Controlling a stage"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il PM crea il Lessons Log in SU per raccogliere le lezioni dai progetti passati fin dall'inizio."
+            },
+            {
+                "id": 581,
+                "category": "Understand key concepts",
+                "question": "What is an 'Output'?",
+                "options": [
+                "A. The reason for the project",
+                "B. A specialist product delivered by the project",
+                "C. The results of a change",
+                "D. The measurable improvement"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'output è il prodotto tangibile o intangibile creato dal lavoro del progetto."
+            },
+            {
+                "id": 582,
+                "category": "Understand principles",
+                "question": "Which principle is being followed when the Project Board is only involved when tolerances are at risk?",
+                "options": [
+                "A. Manage by stages",
+                "B. Manage by exception",
+                "C. Focus on products",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "B",
+                "explanation": "Manage by exception riduce il carico del Board, intervenendo solo in caso di scostamenti critici."
+            },
+            {
+                "id": 583,
+                "category": "Understand people",
+                "question": "What is 'Leadership' as defined in PRINCE2 7?",
+                "options": [
+                "A. Giving orders and controlling the team",
+                "B. Motivating and influencing people to achieve project goals",
+                "C. Writing all the project documentation",
+                "D. Managing the project budget"
+                ],
+                "correct_answer": "B",
+                "explanation": "La leadership riguarda l'aspetto umano del guidare e ispirare le persone verso l'obiettivo."
+            },
+            {
+                "id": 584,
+                "category": "Understand practices",
+                "question": "Which document contains the strategy for managing risks on the project?",
+                "options": [
+                "A. Risk Management Approach",
+                "B. Risk Register",
+                "C. Business Case",
+                "D. Project Brief"
+                ],
+                "correct_answer": "A",
+                "explanation": "L'approccio alla gestione dei rischi definisce il 'come' i rischi verranno identificati, valutati e gestiti."
+            },
+            {
+                "id": 585,
+                "category": "Understand practices",
+                "question": "Identify the missing words: A [?] is an event that has already happened, whereas a [?] is an uncertain future event.",
+                "options": [
+                "A. Risk / Issue",
+                "B. Issue / Risk",
+                "C. Change / Problem",
+                "D. Problem / Change"
+                ],
+                "correct_answer": "B",
+                "explanation": "La issue è certa (è successa), il rischio è incerto (potrebbe succedere)."
+            },
+            {
+                "id": 586,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Quality Management Approach'?",
+                "options": [
+                "A. To test every product personally",
+                "B. To define the standards and techniques for ensuring quality",
+                "C. To hire the quality manager",
+                "D. To record the test results"
+                ],
+                "correct_answer": "B",
+                "explanation": "Definisce la strategia per garantire che i prodotti siano idonei allo scopo."
+            },
+            {
+                "id": 587,
+                "category": "Understand practices",
+                "question": "Who is responsible for the 'Project Initiation Documentation'?",
+                "options": [
+                "A. Project Board",
+                "B. Project Manager",
+                "C. Senior User",
+                "D. Team Manager"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il PM prepara la PID durante il processo di Iniziazione (IP)."
+            },
+            {
+                "id": 588,
+                "category": "Understand practices",
+                "question": "Which of the following are types of plans in PRINCE2? 1. Strategic. 2. Stage. 3. Team. 4. Exception.",
+                "options": [
+                "A. 1, 2, 3",
+                "B. 2, 3, 4",
+                "C. 1, 3, 4",
+                "D. All of the above"
+                ],
+                "correct_answer": "B",
+                "explanation": "I piani standard sono Progetto, Stage, Team ed Eccezione. Lo 'Strategic plan' non è un piano di gestione PRINCE2."
+            },
+            {
+                "id": 589,
+                "category": "Understand processes",
+                "question": "Which process ensures that the project mandate is clearly understood?",
+                "options": [
+                "A. Directing a project",
+                "B. Starting up a project",
+                "C. Initiating a project",
+                "D. Controlling a stage"
+                ],
+                "correct_answer": "B",
+                "explanation": "In SU si analizza il mandato per chiarire cosa l'organizzazione vuole ottenere dal progetto."
+            },
+            {
+                "id": 590,
+                "category": "Understand processes",
+                "question": "What is an objective of the 'Closing a project' process?",
+                "options": [
+                "A. To fire the project manager",
+                "B. To provide a fixed point at which acceptance of the project product is confirmed",
+                "C. To start the initiation stage",
+                "D. To plan the next stage"
+                ],
+                "correct_answer": "B",
+                "explanation": "La chiusura serve a confermare che il cliente ha accettato ciò che è stato prodotto."
+            },
+            {
+                "id": 591,
+                "category": "Understand key concepts",
+                "question": "Which characteristic of a project involves uniqueness?",
+                "options": [
+                "A. Repetitive tasks",
+                "B. Every project is different from previous ones",
+                "C. Ongoing operations",
+                "D. No end date"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'unicità significa che ogni progetto ha caratteristiche che lo rendono diverso da quelli passati."
+            },
+            {
+                "id": 592,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when the Project Manager defines the products first?",
+                "options": [
+                "A. Manage by stages",
+                "B. Focus on products",
+                "C. Tailor to suit the project",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "B",
+                "explanation": "Pianificare partendo dai prodotti (cosa dobbiamo fare) e non dalle attività (come dobbiamo fare) è il cuore di questo principio."
+            },
+            {
+                "id": 593,
+                "category": "Understand people",
+                "question": "What is the focus of 'Co-creation' in PRINCE2 7?",
+                "options": [
+                "A. Multiple project managers",
+                "B. Working together to create value through collaboration",
+                "C. Using AI to write plans",
+                "D. Copying other projects"
+                ],
+                "correct_answer": "B",
+                "explanation": "La co-creazione implica un coinvolgimento attivo degli stakeholder per assicurarsi che i risultati siano utili."
+            },
+            {
+                "id": 594,
+                "category": "Understand practices",
+                "question": "Which document is used to track the progress of a management stage?",
+                "options": [
+                "A. Highlight Report",
+                "B. Checkpoint Report",
+                "C. End Stage Report",
+                "D. Project Plan"
+                ],
+                "correct_answer": "A",
+                "explanation": "Il PM invia l'Highlight Report al Board per aggiornarlo sullo stato dello stage corrente."
+            },
+            {
+                "id": 595,
+                "category": "Understand practices",
+                "question": "Identify the missing word: A [?] is a negative consequence forecast from a project.",
+                "options": [
+                "A. Risk",
+                "B. Dis-benefit",
+                "C. Issue",
+                "D. Problem"
+                ],
+                "correct_answer": "B",
+                "explanation": "Un dis-beneficio è un impatto negativo previsto (es. aumento dei costi operativi dopo l'installazione di un sistema più complesso)."
+            },
+            {
+                "id": 596,
+                "category": "Understand practices",
+                "question": "Who represents the interests of the Business on the Project Board?",
+                "options": [
+                "A. Senior User",
+                "B. Executive",
+                "C. Senior Supplier",
+                "D. Project Manager"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Executive garantisce che il progetto sia giustificato dal punto di vista del business."
+            },
+            {
+                "id": 597,
+                "category": "Understand processes",
+                "question": "Which process is used to plan the Initiation Stage?",
+                "options": [
+                "A. Initiating a project",
+                "B. Starting up a project",
+                "C. Directing a project",
+                "D. Controlling a stage"
+                ],
+                "correct_answer": "B",
+                "explanation": "In SU si prepara il piano per lo stage di iniziazione (Initiation Stage Plan)."
+            },
+            {
+                "id": 598,
+                "category": "Understand processes",
+                "question": "What is the purpose of 'Managing a stage boundary'?",
+                "options": [
+                "A. To finish the project early",
+                "B. To provide information to the Project Board to evaluate the continuing viability of the project",
+                "C. To manage the day-to-day tasks",
+                "D. To authorize the PID"
+                ],
+                "correct_answer": "B",
+                "explanation": "SB serve a revisionare lo stage appena concluso e pianificare il prossimo per la decisione del Board."
+            },
+            {
+                "id": 599,
+                "category": "Understand key concepts",
+                "question": "Which of the following is NOT a project characteristic? 1. Temporary. 2. Cross-functional. 3. Low risk. 4. Change.",
+                "options": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+                ],
+                "correct_answer": "C",
+                "explanation": "I progetti sono rischiosi a causa dell'incertezza e dell'unicità; non sono 'low risk' per definizione."
+            },
+            {
+                "id": 600,
+                "category": "Understand principles",
+                "question": "Which PRINCE2 element includes the Principles, Practices and Processes?",
+                "options": [
+                "A. Principles",
+                "B. Method",
+                "C. People",
+                "D. All are integrated"
+                ],
+                "correct_answer": "D",
+                "explanation": "In PRINCE2 7, i quattro elementi (Principles, Practices, Processes e People) sono integrati per formare il metodo."
+            },
+            {
+                "id": 601,
+                "category": "Understand key concepts",
+                "question": "Which of the following is NOT a fundamental element of the PRINCE2 7 method?",
+                "options": [
+                "A. Principles",
+                "B. Practices",
+                "C. People",
+                "D. Tools"
+                ],
+                "correct_answer": "D",
+                "explanation": "PRINCE2 7 si basa su quattro elementi integrati: Principi, Pratiche, Processi e Persone. Sebbene gli strumenti (Tools) siano utili, non sono un elemento costitutivo del metodo stesso."
+            },
+            {
+                "id": 602,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when a project's management products are modified to suit the specific environment of a highly regulated industry?",
+                "options": [
+                "A. Manage by stages",
+                "B. Focus on products",
+                "C. Tailor to suit the project",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "C",
+                "explanation": "L'adattamento (Tailoring) garantisce che il metodo PRINCE2 sia allineato al contesto, alla complessità e ai requisiti normativi del progetto."
+            },
+            {
+                "id": 603,
+                "category": "Understand people",
+                "question": "In the 'People' element, what does 'Co-creation' aim to achieve?",
+                "options": [
+                "A. Ensuring that the Project Manager makes every single decision",
+                "B. Collaborative effort between the project team and stakeholders to create shared value",
+                "C. Reducing the number of people involved in the project",
+                "D. Increasing the number of technical reports"
+                ],
+                "correct_answer": "B",
+                "explanation": "La co-creazione riguarda il coinvolgimento attivo degli stakeholder per assicurarsi che i risultati del progetto siano realmente utili e generino valore."
+            },
+            {
+                "id": 604,
+                "category": "Understand practices",
+                "question": "Which statement about the 'Business Case' is CORRECT?",
+                "options": [
+                "A. It is only required if the project is expected to be profitable",
+                "B. It provides the justification for the project and is updated at every stage boundary",
+                "C. It is owned and maintained by the Project Support role",
+                "D. It contains the detailed technical design of the project's outputs"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Business Case deve essere 'vivo': viene aggiornato alla fine di ogni stage per confermare che il progetto sia ancora fattibile e desiderabile."
+            },
+            {
+                "id": 605,
+                "category": "Understand practices",
+                "question": "Which role represents the interests of those who will use the project's products to achieve benefits?",
+                "options": [
+                "A. Executive",
+                "B. Senior Supplier",
+                "C. Senior User",
+                "D. Team Manager"
+                ],
+                "correct_answer": "C",
+                "explanation": "Il Senior User rappresenta gli stakeholder che utilizzeranno i prodotti per ottenere i benefici definiti nel Business Case."
+            },
+            {
+                "id": 606,
+                "category": "Understand practices",
+                "question": "What is the primary purpose of the 'Quality' practice?",
+                "options": [
+                "A. To ensure that the project is delivered at the lowest possible cost",
+                "B. To define and implement the means by which the project will verify that products are fit for purpose",
+                "C. To prevent any changes from being made to the scope",
+                "D. To manage the professional development of the project team"
+                ],
+                "correct_answer": "B",
+                "explanation": "La pratica della qualità assicura che i prodotti soddisfino le aspettative e i criteri di accettazione stabiliti."
+            },
+            {
+                "id": 607,
+                "category": "Understand practices",
+                "question": "Which of the following is a specific tolerance that can be set in PRINCE2 7? 1. Sustainability. 2. Quality. 3. Motivation. 4. Risk.",
+                "options": [
+                "A. 1, 2, 3",
+                "B. 1, 2, 4",
+                "C. 2, 3, 4",
+                "D. All of the above"
+                ],
+                "correct_answer": "B",
+                "explanation": "Le tolleranze sono fissate per i 7 aspetti di performance: Tempo, Costo, Qualità, Ambito, Benefici, Rischio e Sostenibilità. La motivazione non è una variabile di performance formale."
+            },
+            {
+                "id": 608,
+                "category": "Understand practices",
+                "question": "What is 'Proximity' in the context of risk management?",
+                "options": [
+                "A. The financial cost of the risk",
+                "B. The geographical location of the risk",
+                "C. The timing of when the risk event is likely to occur",
+                "D. The relationship between the risk and the Project Board"
+                ],
+                "correct_answer": "C",
+                "explanation": "La prossimità indica quanto presto un rischio potrebbe verificarsi, aiutando a prioritizzare le risposte."
+            },
+            {
+                "id": 609,
+                "category": "Understand practices",
+                "question": "Which management product captures informal issues or notes that do not require formal escalation?",
+                "options": [
+                "A. Issue Register",
+                "B. Daily Log",
+                "C. Risk Register",
+                "D. Lessons Log"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Daily Log viene usato dal PM per registrare osservazioni quotidiane, problemi minori o azioni che non necessitano di una gestione formale immediata."
+            },
+            {
+                "id": 610,
+                "category": "Understand processes",
+                "question": "Which process is used to provide the Project Board with enough information to decide whether to authorize the project initiation?",
+                "options": [
+                "A. Initiating a project",
+                "B. Starting up a project",
+                "C. Directing a project",
+                "D. Managing a stage boundary"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il processo 'Starting up a project' (SU) serve a verificare se vale la pena avviare l'iniziazione formale (IP)."
+            },
+            {
+                "id": 611,
+                "category": "Understand key concepts",
+                "question": "Which characteristic of a project involves uniqueness?",
+                "options": [
+                "A. Repetitive daily tasks",
+                "B. Every project is slightly different from previous ones",
+                "C. Using the same team for every single project",
+                "D. Ongoing operations for 5 years"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'unicità è una caratteristica chiave: ogni progetto ha elementi (stakeholder, contesto, output) che lo rendono diverso da quelli passati."
+            },
+            {
+                "id": 612,
+                "category": "Understand principles",
+                "question": "Which principle is supported by dividing the project into at least two management stages?",
+                "options": [
+                "A. Focus on products",
+                "B. Manage by exception",
+                "C. Manage by stages",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "C",
+                "explanation": "PRINCE2 richiede almeno lo stage di iniziazione e uno stage di consegna per garantire il controllo gestionale."
+            },
+            {
+                "id": 613,
+                "category": "Understand people",
+                "question": "In the People element, what does 'Organizational Culture' influence?",
+                "options": [
+                "A. Only the project's financial budget",
+                "B. How team members communicate, interact, and respond to change",
+                "C. The technical specifications of the project outputs",
+                "D. The number of management stages in the project"
+                ],
+                "correct_answer": "B",
+                "explanation": "La cultura influenza i comportamenti, la comunicazione e l'attitudine verso il progetto all'interno dell'organizzazione."
+            },
+            {
+                "id": 614,
+                "category": "Understand practices",
+                "question": "Which document defines the communication needs of the stakeholders?",
+                "options": [
+                "A. Quality management approach",
+                "B. Risk management approach",
+                "C. Communication management approach",
+                "D. Change control approach"
+                ],
+                "correct_answer": "C",
+                "explanation": "L'approccio alla gestione della comunicazione stabilisce chi deve ricevere quali informazioni, come e quando."
+            },
+            {
+                "id": 615,
+                "category": "Understand practices",
+                "question": "Identify the missing word: The project [?] provides independent monitoring of the project's progress and quality.",
+                "options": [
+                "A. Manager",
+                "B. Board",
+                "C. Support",
+                "D. Assurance"
+                ],
+                "correct_answer": "D",
+                "explanation": "La Project Assurance verifica l'integrità del progetto in modo indipendente dal Project Manager, riportando direttamente al Board."
+            },
+            {
+                "id": 616,
+                "category": "Understand practices",
+                "question": "What is the purpose of a 'Product Description'?",
+                "options": [
+                "A. To define the salary of the specialist team",
+                "B. To define the purpose, composition, and quality criteria of an individual product",
+                "C. To list all the project risks in a single document",
+                "D. To act as a summary of the project Board meetings"
+                ],
+                "correct_answer": "B",
+                "explanation": "Le descrizioni dei prodotti chiariscono cosa deve essere creato, garantendo il rispetto del principio 'Focus on products'."
+            },
+            {
+                "id": 617,
+                "category": "Understand practices",
+                "question": "Which of the following is a type of 'Issue' in PRINCE2? 1. Risk. 2. Request for Change. 3. Off-specification. 4. Problem.",
+                "options": [
+                "A. 1, 2, 3",
+                "B. 2, 3, 4",
+                "C. 1, 2, 4",
+                "D. All of the above"
+                ],
+                "correct_answer": "B",
+                "explanation": "Le Issue si dividono in RFC, Fuori Specifica e Problemi. Il rischio è un evento incerto futuro, quindi non è una Issue."
+            },
+            {
+                "id": 618,
+                "category": "Understand practices",
+                "question": "What does 'Management by Exception' mean for the Project Board?",
+                "options": [
+                "A. They must manage the project's day-to-day activities",
+                "B. They only need to intervene when a management stage is forecast to exceed its tolerances",
+                "C. They can ignore the project until the final product is delivered",
+                "D. They are responsible for writing all technical documentation"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Board interviene solo se il PM segnala che i limiti (tolleranze) concordati non possono essere rispettati."
+            },
+            {
+                "id": 619,
+                "category": "Understand practices",
+                "question": "Which risk response involves making an opportunity more likely to happen?",
+                "options": [
+                "A. Exploit",
+                "B. Enhance",
+                "C. Share",
+                "D. Reject"
+                ],
+                "correct_answer": "B",
+                "explanation": "La risposta 'Enhance' (Migliorare) mira ad aumentare la probabilità e/o l'impatto positivo di un'opportunità."
+            },
+            {
+                "id": 620,
+                "category": "Understand processes",
+                "question": "Which process is used by the Project Manager to report the progress of a stage to the Project Board?",
+                "options": [
+                "A. Controlling a stage",
+                "B. Managing product delivery",
+                "C. Managing a stage boundary",
+                "D. Directing a project"
+                ],
+                "correct_answer": "A",
+                "explanation": "In 'Controlling a stage', il PM produce Highlight Reports regolari per informare il Board sull'andamento dello stage."
+            },
+            {
+                "id": 621,
+                "category": "Understand key concepts",
+                "question": "Which performance aspect ensures the project respects ethical and environmental standards?",
+                "options": [
+                "A. Quality",
+                "B. Benefits",
+                "C. Sustainability",
+                "D. Scope"
+                ],
+                "correct_answer": "C",
+                "explanation": "La sostenibilità monitora l'impatto ambientale, sociale ed economico del progetto, una novità chiave di PRINCE2 7."
+            },
+            {
+                "id": 622,
+                "category": "Understand principles",
+                "question": "The 'Learn from experience' principle requires that lessons are... 1. Sought. 2. Recorded. 3. Ignored if negative. 4. Acted upon.",
+                "options": [
+                "A. 1, 2, 3",
+                "B. 2, 3, 4",
+                "C. 1, 2, 4",
+                "D. All of the above"
+                ],
+                "correct_answer": "C",
+                "explanation": "Le lezioni non devono mai essere ignorate, specialmente quelle negative, poiché forniscono le migliori opportunità di miglioramento."
+            },
+            {
+                "id": 223,
+                "category": "Understand people",
+                "question": "What is the primary role of a 'Leader' in a PRINCE2 project?",
+                "options": [
+                "A. To control every minute of the team's work",
+                "B. To motivate and influence people to work towards project goals",
+                "C. To focus only on the project's financial budget",
+                "D. To report all team members' mistakes to HR"
+                ],
+                "correct_answer": "B",
+                "explanation": "La leadership in PRINCE2 7 riguarda la motivazione, l'ispirazione e la guida del team verso il successo."
+            },
+            {
+                "id": 624,
+                "category": "Understand practices",
+                "question": "Which statement about 'Tolerances' is CORRECT?",
+                "options": [
+                "A. They are only set for cost and time",
+                "B. They are set by the Project Manager for the Team Manager",
+                "C. They define the permissible deviation from planned targets",
+                "D. They must be zero in a high-quality project"
+                ],
+                "correct_answer": "C",
+                "explanation": "Le tolleranze permettono la delega dell'autorità fissando dei limiti entro cui il PM o il TM possono agire autonomamente."
+            },
+            {
+                "id": 625,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Quality Register'?",
+                "options": [
+                "A. To store all the code developed during the project",
+                "B. To record all planned and completed quality activities",
+                "C. To act as a list of all stakeholders' email addresses",
+                "D. To record all the project risks"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il registro della qualità serve a tracciare test, ispezioni e approvazioni dei prodotti specialistici."
+            },
+            {
+                "id": 626,
+                "category": "Understand practices",
+                "question": "Who is responsible for the 'Benefits Management Approach'?",
+                "options": [
+                "A. Senior User",
+                "B. Executive",
+                "C. Project Manager",
+                "D. Senior Supplier"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Executive è responsabile della giustificazione commerciale e quindi del piano per realizzare i benefici."
+            },
+            {
+                "id": 627,
+                "category": "Understand practices",
+                "question": "A situation where a tolerance is forecast to be exceeded is called what?",
+                "options": [
+                "A. An Exception",
+                "B. A Change",
+                "C. A Risk",
+                "D. An Issue"
+                ],
+                "correct_answer": "A",
+                "explanation": "L'eccezione scatta quando il PM prevede di non poter rispettare i limiti di stage concordati."
+            },
+            {
+                "id": 628,
+                "category": "Understand practices",
+                "question": "Which of the following is NOT part of the 'Organizing' practice?",
+                "options": [
+                "A. Defining the Project Board roles",
+                "B. Establishing the communication management approach",
+                "C. Creating the project schedule",
+                "D. Assigning the Change Authority"
+                ],
+                "correct_answer": "C",
+                "explanation": "La creazione della schedulazione (Gantt, tempi) appartiene alla pratica dei Piani (Plans), non all'Organizzazione."
+            },
+            {
+                "id": 629,
+                "category": "Understand processes",
+                "question": "In which process is the 'Project Initiation Documentation' (PID) produced?",
+                "options": [
+                "A. Starting up a project",
+                "B. Initiating a project",
+                "C. Directing a project",
+                "D. Managing a stage boundary"
+                ],
+                "correct_answer": "B",
+                "explanation": "La PID è l'output principale del processo di iniziazione (IP) e serve a definire come il progetto sarà gestito."
+            },
+            {
+                "id": 630,
+                "category": "Understand processes",
+                "question": "What is an objective of the 'Closing a project' process?",
+                "options": [
+                "A. To deliver the specialist products",
+                "B. To provide a fixed point at which acceptance of the project product is confirmed",
+                "C. To authorize the final stage",
+                "D. To plan the next project stage"
+                ],
+                "correct_answer": "B",
+                "explanation": "La chiusura serve a formalizzare il termine dei lavori e ad assicurarsi che l'utente abbia accettato i risultati."
+            },
+            {
+                "id": 631,
+                "category": "Understand key concepts",
+                "question": "Which characteristic of a project involves uniqueness?",
+                "options": [
+                "A. Repetitive tasks",
+                "B. No defined end date",
+                "C. Every project has elements that make it different",
+                "D. Using only internal resources"
+                ],
+                "correct_answer": "C",
+                "explanation": "L'unicità deriva dal fatto che ogni progetto ha un contesto, obiettivi o stakeholder differenti dai precedenti."
+            },
+            {
+                "id": 632,
+                "category": "Understand principles",
+                "question": "The principle 'Focus on products' ensures that the project team understands what?",
+                "options": [
+                "A. How many hours they need to work",
+                "B. What the project is required to deliver and its quality criteria",
+                "C. The project's financial budget",
+                "D. The Project Manager's leadership style"
+                ],
+                "correct_answer": "B",
+                "explanation": "Definire i prodotti prima delle attività assicura che lo sforzo sia mirato al risultato corretto."
+            },
+            {
+                "id": 633,
+                "category": "Understand people",
+                "question": "Which of the following is an aspect of leadership as described in PRINCE2 7?",
+                "options": [
+                "A. Dictating tasks without any feedback",
+                "B. Influencing a positive project culture",
+                "C. Ignoring stakeholders' concerns to save time",
+                "D. Focusing only on technical tools"
+                ],
+                "correct_answer": "B",
+                "explanation": "La leadership riguarda la creazione di una cultura collaborativa e l'influenza positiva sul team."
+            },
+            {
+                "id": 634,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Risk Management Approach'?",
+                "options": [
+                "A. To list every single risk in the project",
+                "B. To define the techniques and standards to be used for risk management",
+                "C. To insure the project against all financial losses",
+                "D. To assign a budget to each individual risk"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'approccio definisce il 'come' il progetto identificherà, valuterà e gestirà le incertezze."
+            },
+            {
+                "id": 635,
+                "category": "Understand practices",
+                "question": "Which role represents the interests of those who will maintenance the project's products?",
+                "options": [
+                "A. Senior Supplier",
+                "B. Senior User",
+                "C. Project Support",
+                "D. Executive"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il Senior User rappresenta sia chi usa i prodotti che chi deve gestirli operativamente dopo il progetto."
+            },
+            {
+                "id": 636,
+                "category": "Understand practices",
+                "question": "What is the 'Issue Register' used for?",
+                "options": [
+                "A. To track informal concerns of the project manager",
+                "B. To record all formal issues and their status",
+                "C. To list the risks that have high probability",
+                "D. To archive old project documents"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Issue Register è il registro ufficiale per tutte le Issue (RFC, fuori specifica e problemi) formalizzate."
+            },
+            {
+                "id": 637,
+                "category": "Understand practices",
+                "question": "Identify the missing words: A [?] is an event that has already happened, while a [?] is an uncertain future event.",
+                "options": [
+                "A. Risk / Issue",
+                "B. Issue / Risk",
+                "C. Change / Problem",
+                "D. Problem / Change"
+                ],
+                "correct_answer": "B",
+                "explanation": "La issue è certa (un evento accaduto), il rischio è incerto (potrebbe accadere)."
+            },
+            {
+                "id": 638,
+                "category": "Understand practices",
+                "question": "What is the primary purpose of 'Change Control'?",
+                "options": [
+                "A. To prevent any changes from happening",
+                "B. To ensure that proposed changes are assessed and authorized before implementation",
+                "C. To change the Project Manager frequently",
+                "D. To update the project budget daily"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il controllo dei cambiamenti serve a gestire l'ambito in modo ordinato, valutando l'impatto di ogni modifica."
+            },
+            {
+                "id": 639,
+                "category": "Understand processes",
+                "question": "Which process is used by the Team Manager to manage the technical work?",
+                "options": [
+                "A. Controlling a stage",
+                "B. Managing product delivery",
+                "C. Managing a stage boundary",
+                "D. Starting up a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "MP (Managing product delivery) è il processo in cui il team crea e consegna i prodotti specialistici."
+            },
+            {
+                "id": 640,
+                "category": "Understand processes",
+                "question": "What is an objective of the 'Managing a stage boundary' process?",
+                "options": [
+                "A. To authorize the project",
+                "B. To provide information to the Project Board to evaluate the continuing viability of the project",
+                "C. To manage the day-to-day activities of the project team",
+                "D. To write the project mandate"
+                ],
+                "correct_answer": "B",
+                "explanation": "In SB si tirano le somme dello stage finito e si pianifica il prossimo per permettere al Board di decidere se continuare."
+            },
+            {
+                "id": 641,
+                "category": "Understand key concepts",
+                "question": "Which of the following is NOT a project characteristic? 1. Temporary. 2. Cross-functional. 3. Low risk. 4. Change.",
+                "options": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+                ],
+                "correct_answer": "C",
+                "explanation": "I progetti sono rischiosi a causa dell'incertezza e dell'unicità; non sono 'low risk' per definizione."
+            },
+            {
+                "id": 642,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when the Project Manager only reports to the Board when tolerances are at risk?",
+                "options": [
+                "A. Manage by stages",
+                "B. Manage by exception",
+                "C. Focus on products",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il PM gestisce autonomamente finché non ci sono 'eccezioni' (rischi di superamento delle tolleranze)."
+            },
+            {
+                "id": 643,
+                "category": "Understand people",
+                "question": "What is 'Psychological Safety' in a project team?",
+                "options": [
+                "A. Having a secure office building",
+                "B. An environment where team members feel safe to speak up without fear of negative consequences",
+                "C. A background check for all employees",
+                "D. Having insurance against project failure"
+                ],
+                "correct_answer": "B",
+                "explanation": "La sicurezza psicologica favorisce l'onestà e la gestione proattiva dei problemi, elementi vitali per il successo."
+            },
+            {
+                "id": 644,
+                "category": "Understand practices",
+                "question": "Which document is used to track formal issues?",
+                "options": [
+                "A. Risk Register",
+                "B. Issue Register",
+                "C. Daily Log",
+                "D. Quality Register"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Issue Register è il registro formale per tutti i problemi e le richieste di modifica."
+            },
+            {
+                "id": 645,
+                "category": "Understand practices",
+                "question": "Identify the missing word: Leadership is the ability to influence and [?] a project team to achieve its objectives.",
+                "options": [
+                "A. Control",
+                "B. Motivate",
+                "C. Order",
+                "D. Finance"
+                ],
+                "correct_answer": "B",
+                "explanation": "La leadership in PRINCE2 7 si basa sulla capacità di motivare, non solo di controllare o dare ordini."
+            },
+            {
+                "id": 646,
+                "category": "Understand processes",
+                "question": "Which process includes the activity of 'Handing over products'?",
+                "options": [
+                "A. Managing product delivery",
+                "B. Closing a project",
+                "C. Managing a stage boundary",
+                "D. Controlling a stage"
+                ],
+                "correct_answer": "B",
+                "explanation": "In CP (Closing a project), i prodotti vengono formalmente consegnati all'utente o alle operazioni (BAU)."
+            },
+            {
+                "id": 647,
+                "category": "Understand processes",
+                "question": "What is the trigger for 'Starting up a project'?",
+                "options": [
+                "A. Project Brief",
+                "B. Project Mandate",
+                "C. Project Plan",
+                "D. Business Case"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il mandato (Project Mandate) è l'input esterno che innesca le attività del pre-progetto."
+            },
+            {
+                "id": 648,
+                "category": "Understand key concepts",
+                "question": "Which characteristic of a project involves people from different departments working together?",
+                "options": [
+                "A. Temporary",
+                "B. Cross-functional",
+                "C. Unique",
+                "D. Risky"
+                ],
+                "correct_answer": "B",
+                "explanation": "Un progetto è cross-funzionale perché unisce diverse competenze che normalmente operano in aree diverse."
+            },
+            {
+                "id": 649,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when the Project Board reviews the project at the end of each stage?",
+                "options": [
+                "A. Manage by stages",
+                "B. Manage by exception",
+                "C. Focus on products",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "A",
+                "explanation": "Dividere il progetto in stage permette di avere punti di controllo e decisione regolari per il Board."
+            },
+            {
+                "id": 650,
+                "category": "Understand people",
+                "question": "What is the 'Accountability' of the Project Board?",
+                "options": [
+                "A. To do the work of the team manager",
+                "B. To be ultimately responsible for the success or failure of the project",
+                "C. To write the project's code",
+                "D. To manage the project daily"
+                ],
+                "correct_answer": "B",
+                "explanation": "Mentre il PM gestisce, il Board risponde dell'investimento complessivo (Accountability)."
+            },
+            {
+                "id": 651,
+                "category": "Understand practices",
+                "question": "Which of the following are performance variables in PRINCE2? 1. Time. 2. Quality. 3. Motivation. 4. Scope.",
+                "options": [
+                "A. 1, 2, 3",
+                "B. 1, 2, 4",
+                "C. 2, 3, 4",
+                "D. All of the above"
+                ],
+                "correct_answer": "B",
+                "explanation": "La motivazione non è una delle 7 variabili di performance ufficiali (Time, Cost, Quality, Scope, Benefit, Risk, Sustainability)."
+            },
+            {
+                "id": 652,
+                "category": "Understand practices",
+                "question": "A project is running late. Which tolerance is at risk?",
+                "options": [
+                "A. Cost",
+                "B. Time",
+                "C. Scope",
+                "D. Quality"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il ritardo (Running late) impatta direttamente sulla tolleranza temporale (Time)."
+            },
+            {
+                "id": 653,
+                "category": "Understand practices",
+                "question": "What is a 'Tolerated Risk'?",
+                "options": [
+                "A. A risk that has been eliminated",
+                "B. A risk that has been accepted because its impact is within limits",
+                "C. A risk that the project manager forgot to record",
+                "D. A risk that has been transferred"
+                ],
+                "correct_answer": "B",
+                "explanation": "Accettare un rischio significa decidere di non agire preventivamente, monitorandolo però per assicurarsi che resti entro limiti accettabili."
+            },
+            {
+                "id": 654,
+                "category": "Understand practices",
+                "question": "Which document reports the project status at the end of a management stage?",
+                "options": [
+                "A. Highlight Report",
+                "B. End Stage Report",
+                "C. Issue Report",
+                "D. Checkpoint Report"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'End Stage Report riassume quanto accaduto nello stage per consentire al Board di decidere se proseguire."
+            },
+            {
+                "id": 655,
+                "category": "Understand processes",
+                "question": "Which process is used to handle a request for change?",
+                "options": [
+                "A. Managing product delivery",
+                "B. Controlling a stage",
+                "C. Directing a project",
+                "D. Starting up a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "In 'Controlling a stage', il PM riceve, analizza e decide (o scala) le richieste di modifica."
+            },
+            {
+                "id": 656,
+                "category": "Understand processes",
+                "question": "When is the 'Lessons Log' updated?",
+                "options": [
+                "A. Only at the end of the project",
+                "B. Only during project initiation",
+                "C. Throughout the project, as lessons are identified",
+                "D. Never, it is read-only"
+                ],
+                "correct_answer": "C",
+                "explanation": "Le lezioni devono essere catturate nel momento in cui vengono scoperte per non perderne i dettagli."
+            },
+            {
+                "id": 657,
+                "category": "Understand key concepts",
+                "question": "Which characteristic of a project involves change?",
+                "options": [
+                "A. Maintaining the status quo",
+                "B. Business as usual",
+                "C. Projects are the means by which we introduce changes",
+                "D. Repeatable operations"
+                ],
+                "correct_answer": "C",
+                "explanation": "I progetti servono proprio a cambiare qualcosa (introdurre un nuovo prodotto o sistema)."
+            },
+            {
+                "id": 658,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when a project manager uses a simpler version of the PID for a small project?",
+                "options": [
+                "A. Focus on products",
+                "B. Manage by exception",
+                "C. Tailor to suit the project",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "C",
+                "explanation": "Adattare la documentazione alla complessità è l'essenza del Tailoring."
+            },
+            {
+                "id": 659,
+                "category": "Understand people",
+                "question": "What is 'Co-creation'?",
+                "options": [
+                "A. The Project Manager doing all the work alone",
+                "B. Working together with stakeholders to achieve shared outcomes",
+                "C. Hiring a consultant to do the project",
+                "D. Copying a product from a competitor"
+                ],
+                "correct_answer": "B",
+                "explanation": "La co-creazione implica un coinvolgimento attivo degli stakeholder nella definizione e creazione delle soluzioni."
+            },
+            {
+                "id": 660,
+                "category": "Understand processes",
+                "question": "Which process covers the day-to-day management of a stage?",
+                "options": [
+                "A. Directing a project",
+                "B. Controlling a stage",
+                "C. Managing product delivery",
+                "D. Initiating a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "In CS (Controlling a stage), il PM gestisce le attività quotidiane, monitora il lavoro e reagisce ai problemi."
+            },
+            {
+                "id": 661,
+                "category": "Understand key concepts",
+                "question": "Which of the following is NOT one of the seven aspects of project performance?",
+                "options": [
+                "A. Sustainability",
+                "B. Risk",
+                "C. Efficiency",
+                "D. Scope"
+                ],
+                "correct_answer": "C",
+                "explanation": "Sebbene l'efficienza sia un obiettivo generale, non è una delle sette variabili di performance specifiche misurate tramite tolleranze (che sono: Time, Cost, Quality, Scope, Benefits, Risk, Sustainability)."
+            },
+            {
+                "id": 662,
+                "category": "Understand principles",
+                "question": "When tailoring PRINCE2, which of the following can be adapted? 1. Processes. 2. Principles. 3. Management products. 4. Roles.",
+                "options": [
+                "A. 1, 2, 3",
+                "B. 1, 3, 4",
+                "C. 2, 3, 4",
+                "D. All of the above"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'adattamento (Tailoring) riguarda processi, ruoli e prodotti di gestione. I Principi, invece, sono universali e non possono mai essere modificati o omessi."
+            },
+            {
+                "id": 663,
+                "category": "Understand people",
+                "question": "Identify the missing word: [?] is the shared values, attitudes, and behaviors that characterize a project environment.",
+                "options": [
+                "A. Hierarchy",
+                "B. Governance",
+                "C. Culture",
+                "D. Strategy"
+                ],
+                "correct_answer": "C",
+                "explanation": "La cultura del progetto influenza il modo in cui le persone lavorano insieme e reagiscono alle sfide."
+            },
+            {
+                "id": 664,
+                "category": "Understand practices",
+                "question": "Which statement about the 'Senior User' role is INCORRECT?",
+                "options": [
+                "A. They represent the interests of those who will use the products",
+                "B. They are responsible for the project's business justification",
+                "C. They specify the project's benefits",
+                "D. They provide user resources to the project"
+                ],
+                "correct_answer": "B",
+                "explanation": "La giustificazione commerciale (Business Case) è responsabilità dell'Executive, non del Senior User."
+            },
+            {
+                "id": 665,
+                "category": "Understand practices",
+                "question": "Identify the missing words: The [?] interest is represented by the Executive, while the [?] interest is represented by the Senior Supplier.",
+                "options": [
+                "A. User / Technical",
+                "B. Business / Supplier",
+                "C. Financial / Resource",
+                "D. Corporate / External"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Executive rappresenta il Business (ritorno sull'investimento) e il Senior Supplier rappresenta chi fornisce le competenze e i mezzi (Supplier)."
+            },
+            {
+                "id": 666,
+                "category": "Understand practices",
+                "question": "Which of the following are steps in the quality management procedure? 1. Quality planning. 2. Quality control. 3. Quality assurance. 4. Quality audit.",
+                "options": [
+                "A. 1 and 2",
+                "B. 1 and 3",
+                "C. 2 and 4",
+                "D. 3 and 4"
+                ],
+                "correct_answer": "A",
+                "explanation": "Le due attività principali della pratica della Qualità sono la Pianificazione (definire i criteri) e il Controllo (verificare i prodotti)."
+            },
+            {
+                "id": 667,
+                "category": "Understand practices",
+                "question": "Which threat response involves a conscious decision to do nothing about a risk?",
+                "options": [
+                "A. Avoid",
+                "B. Mitigate",
+                "C. Accept",
+                "D. Transfer"
+                ],
+                "correct_answer": "C",
+                "explanation": "L'accettazione (Accept) significa che il team decide di convivere con il rischio senza intraprendere azioni preventive."
+            },
+            {
+                "id": 668,
+                "category": "Understand practices",
+                "question": "What does a 'Tolerance' define in terms of management control?",
+                "options": [
+                "A. The absolute end date of the project",
+                "B. The allowable deviation from a plan's targets before it must be escalated",
+                "C. The total number of people allowed in the team",
+                "D. The technical standards for product testing"
+                ],
+                "correct_answer": "B",
+                "explanation": "Le tolleranze permettono al PM di gestire lo stage in autonomia finché non viene previsto uno sforamento dei limiti concordati."
+            },
+            {
+                "id": 669,
+                "category": "Understand processes",
+                "question": "What is the primary purpose of the 'Starting up a project' process?",
+                "options": [
+                "A. To create the Project Initiation Documentation",
+                "B. To ensure that the prerequisites for initiating a project are in place",
+                "C. To authorize the project budget",
+                "D. To deliver the final products"
+                ],
+                "correct_answer": "B",
+                "explanation": "SU è un filtro: serve ad assicurarsi che ci sia un motivo valido per avviare l'iniziazione e che i ruoli chiave siano assegnati."
+            },
+            {
+                "id": 670,
+                "category": "Understand processes",
+                "question": "In which process is the 'Benefits Management Approach' first drafted?",
+                "options": [
+                "A. Starting up a project",
+                "B. Initiating a project",
+                "C. Controlling a stage",
+                "D. Managing a stage boundary"
+                ],
+                "correct_answer": "B",
+                "explanation": "Durante l'iniziazione (IP) si definisce come e quando i benefici verranno misurati."
+            },
+            {
+                "id": 671,
+                "category": "Understand key concepts",
+                "question": "Which of the following describes 'Sustainability' as a performance aspect?",
+                "options": [
+                "A. Ensuring the project is finished as fast as possible",
+                "B. Managing the project's impact on environmental, social, and economic factors",
+                "C. Making sure the project team stays the same for 10 years",
+                "D. Using only paper-based reports"
+                ],
+                "correct_answer": "B",
+                "explanation": "La sostenibilità riguarda il 'triple bottom line' (persone, pianeta, profitto) e l'impatto a lungo termine del progetto."
+            },
+            {
+                "id": 672,
+                "category": "Understand principles",
+                "question": "The principle 'Focus on products' means that...?",
+                "options": [
+                "A. Activities should be planned before products are defined",
+                "B. A project is defined by the work it does, not what it delivers",
+                "C. Products should be defined before planning the activities to create them",
+                "D. Only the final product of the project matters"
+                ],
+                "correct_answer": "C",
+                "explanation": "PRINCE2 è orientato ai prodotti: bisogna sapere 'cosa' fare prima di decidere 'come' farlo."
+            },
+            {
+                "id": 673,
+                "category": "Understand people",
+                "question": "Which of the following is an example of 'Servant Leadership'?",
+                "options": [
+                "A. Giving orders and expecting immediate obedience",
+                "B. Removing obstacles for the team and supporting their development",
+                "C. Focusing only on technical tasks and ignoring people",
+                "D. Reporting all team errors to the Project Board"
+                ],
+                "correct_answer": "B",
+                "explanation": "La Servant Leadership si focalizza sul supporto al team affinché possa performare al meglio."
+            },
+            {
+                "id": 674,
+                "category": "Understand practices",
+                "question": "Which role is responsible for maintaining the 'Issue Register'?",
+                "options": [
+                "A. Project Board",
+                "B. Project Manager",
+                "C. Team Manager",
+                "D. Project Support (under the PM's direction)"
+                ],
+                "correct_answer": "D",
+                "explanation": "Il supporto al progetto assiste il PM nella manutenzione dei registri e dei log."
+            },
+            {
+                "id": 675,
+                "category": "Understand practices",
+                "question": "Identify the missing words: A [?] is a situation where a tolerance is forecast to be exceeded, whereas an [?] is any relevant event that has happened and requires management action.",
+                "options": [
+                "A. Risk / Issue",
+                "B. Exception / Issue",
+                "C. Issue / Exception",
+                "D. Risk / Change"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'eccezione riguarda lo sforamento delle tolleranze; la issue è un evento già accaduto che richiede attenzione."
+            },
+            {
+                "id": 676,
+                "category": "Understand practices",
+                "question": "What is the purpose of the 'Risk Management Approach'?",
+                "options": [
+                "A. To list every possible risk in the world",
+                "B. To describe the techniques and standards to be used for risk management",
+                "C. To insure the project against financial loss",
+                "D. To assign a risk owner to the Executive"
+                ],
+                "correct_answer": "B",
+                "explanation": "Definisce il 'come' (metodologia) il progetto gestirà l'incertezza."
+            },
+            {
+                "id": 677,
+                "category": "Understand practices",
+                "question": "Which plan is the most detailed in PRINCE2? 1. Project Plan. 2. Stage Plan. 3. Team Plan.",
+                "options": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. All have the same detail"
+                ],
+                "correct_answer": "C",
+                "explanation": "Il Team Plan è quello con il massimo livello di dettaglio tecnico e temporale."
+            },
+            {
+                "id": 678,
+                "category": "Understand practices",
+                "question": "Which role represents the interests of those who provide the resources for the project?",
+                "options": [
+                "A. Executive",
+                "B. Senior User",
+                "C. Senior Supplier",
+                "D. Project Manager"
+                ],
+                "correct_answer": "C",
+                "explanation": "Il Senior Supplier rappresenta chi fornisce le competenze tecniche e i mezzi per realizzare i prodotti."
+            },
+            {
+                "id": 679,
+                "category": "Understand processes",
+                "question": "Which process is used by the Project Manager to assign work to be done by the team?",
+                "options": [
+                "A. Managing product delivery",
+                "B. Controlling a stage",
+                "C. Managing a stage boundary",
+                "D. Initiating a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "In 'Controlling a stage', il PM autorizza i pacchetti di lavoro (Work Packages)."
+            },
+            {
+                "id": 680,
+                "category": "Understand processes",
+                "question": "What is an objective of the 'Managing a stage boundary' process?",
+                "options": [
+                "A. To authorize the project",
+                "B. To provide the Project Board with information to review the viability of the project",
+                "C. To manage the day-to-day work of the specialists",
+                "D. To write the project mandate"
+                ],
+                "correct_answer": "B",
+                "explanation": "SB serve a fare il punto della situazione e pianificare il prossimo stage per permettere al Board di decidere se continuare."
+            },
+            {
+                "id": 681,
+                "category": "Understand key concepts",
+                "question": "Which of the following is an example of an 'Outcome'?",
+                "options": [
+                "A. A new company website",
+                "B. Customers being able to order products online",
+                "C. A 10% increase in online sales",
+                "D. The user manual for the website"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'outcome è il cambiamento (capacità di ordinare online) derivante dall'uso dell'output (sito web)."
+            },
+            {
+                "id": 682,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when a project manager uses a 'Lessons Log' to record what went wrong?",
+                "options": [
+                "A. Focus on products",
+                "B. Manage by exception",
+                "C. Learn from experience",
+                "D. Tailor to suit the project"
+                ],
+                "correct_answer": "C",
+                "explanation": "Registrare ciò che accade per migliorare in futuro è l'essenza del 'Learn from experience'."
+            },
+            {
+                "id": 683,
+                "category": "Understand people",
+                "question": "Why is 'Psychological Safety' important in a team?",
+                "options": [
+                "A. To prevent any changes to the project scope",
+                "B. To allow team members to speak up about issues and risks without fear",
+                "C. To ensure the office is physically safe",
+                "D. To make sure the Project Manager is never questioned"
+                ],
+                "correct_answer": "B",
+                "explanation": "La sicurezza psicologica favorisce l'onestà e la gestione proattiva dei problemi."
+            },
+            {
+                "id": 684,
+                "category": "Understand practices",
+                "question": "Which of the following is NOT a type of 'Issue'?",
+                "options": [
+                "A. Request for Change",
+                "B. Off-specification",
+                "C. Threat",
+                "D. Problem/Concern"
+                ],
+                "correct_answer": "C",
+                "explanation": "Una minaccia (Threat) è un tipo di Rischio (evento incerto futuro), non una Issue (evento certo accaduto)."
+            },
+            {
+                "id": 685,
+                "category": "Understand practices",
+                "question": "What is the purpose of 'Project Assurance'?",
+                "options": [
+                "A. To provide administrative support to the PM",
+                "B. To provide independent check that the project is being managed correctly",
+                "C. To manage the technical creation of products",
+                "D. To approve the project's budget"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Assurance fornisce una garanzia al Board che il progetto segua gli standard, indipendentemente dal PM."
+            },
+            {
+                "id": 686,
+                "category": "Understand practices",
+                "question": "In risk management, what does 'Impact' refer to?",
+                "options": [
+                "A. The probability of a risk happening",
+                "B. The effect of the risk on the project's objectives",
+                "C. The distance between the risk and the project team",
+                "D. The cost of identifying the risk"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'impatto descrive quanto un rischio colpirebbe gli obiettivi (tempo, costo, qualità, ecc.) se si verificasse."
+            },
+            {
+                "id": 687,
+                "category": "Understand practices",
+                "question": "Identify the missing words: A [?] defines the products to be created, whereas a [?] defines the activities needed to create them.",
+                "options": [
+                "A. Plan / Schedule",
+                "B. Product Description / Work Package",
+                "C. Business Case / Plan",
+                "D. Scope / Budget"
+                ],
+                "correct_answer": "B",
+                "explanation": "La Product Description definisce il 'cosa', il Work Package (che contiene le attività) definisce il 'come'."
+            },
+            {
+                "id": 688,
+                "category": "Understand practices",
+                "question": "Who defines the 'Acceptance Criteria' for the project product?",
+                "options": [
+                "A. Project Manager",
+                "B. Senior User (and Executive)",
+                "C. Senior Supplier",
+                "D. Team Manager"
+                ],
+                "correct_answer": "B",
+                "explanation": "Sono l'utente e il business a stabilire cosa renderà il prodotto finale accettabile."
+            },
+            {
+                "id": 689,
+                "category": "Understand processes",
+                "question": "Which process is used by the Team Manager to manage the specialist work?",
+                "options": [
+                "A. Controlling a stage",
+                "B. Managing product delivery",
+                "C. Managing a stage boundary",
+                "D. Directing a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il processo MP (Managing Product Delivery) è quello specifico per i team tecnici."
+            },
+            {
+                "id": 690,
+                "category": "Understand processes",
+                "question": "What is the trigger for 'Starting up a project'?",
+                "options": [
+                "A. Project Brief",
+                "B. Project Mandate",
+                "C. PID",
+                "D. Business Case"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il mandato è l'input esterno che innesca il pre-progetto (SU)."
+            },
+            {
+                "id": 691,
+                "category": "Understand key concepts",
+                "question": "Which characteristic of a project involves uniqueness?",
+                "options": [
+                "A. Every project is the same",
+                "B. No two projects are identical",
+                "C. Projects only happen once a year",
+                "D. Projects are managed by one person"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'unicità deriva dal fatto che ogni progetto ha un contesto, stakeholder o obiettivi differenti."
+            },
+            {
+                "id": 692,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when the Project Board reviews the project at the end of each stage?",
+                "options": [
+                "A. Manage by exception",
+                "B. Manage by stages",
+                "C. Focus on products",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "B",
+                "explanation": "Dividere il progetto in stage permette punti di controllo e decisione regolari."
+            },
+            {
+                "id": 693,
+                "category": "Understand people",
+                "question": "What is 'Capability' in the People element?",
+                "options": [
+                "A. The financial budget",
+                "B. The skills, knowledge, and experience of the team",
+                "C. The speed of the server",
+                "D. The number of management stages"
+                ],
+                "correct_answer": "B",
+                "explanation": "La Capability riguarda le competenze umane necessarie per il successo del progetto."
+            },
+            {
+                "id": 694,
+                "category": "Understand practices",
+                "question": "Which management product contains the 'Project Product Description'?",
+                "options": [
+                "A. Project Plan",
+                "B. Project Brief",
+                "C. Stage Plan",
+                "D. Daily Log"
+                ],
+                "correct_answer": "B",
+                "explanation": "La descrizione del prodotto finale viene creata in SU e inserita nel Project Brief."
+            },
+            {
+                "id": 695,
+                "category": "Understand practices",
+                "question": "Which role represents the 'Business' interest?",
+                "options": [
+                "A. Senior User",
+                "B. Executive",
+                "C. Senior Supplier",
+                "D. Project Manager"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Executive assicura che il progetto offra un valore per i soldi spesi dal punto di vista aziendale."
+            },
+            {
+                "id": 696,
+                "category": "Understand practices",
+                "question": "What is the purpose of 'Quality Control'?",
+                "options": [
+                "A. Defining quality standards",
+                "B. The process of testing products to verify they meet criteria",
+                "C. Setting the quality policy",
+                "D. Writing the quality management approach"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il controllo qualità riguarda le attività operative per verificare la conformità dei prodotti."
+            },
+            {
+                "id": 697,
+                "category": "Understand practices",
+                "question": "In risk management, what is 'Probability'?",
+                "options": [
+                "A. The effect of the risk",
+                "B. The likelihood of a risk event occurring",
+                "C. The cost of the risk",
+                "D. The proximity of the risk"
+                ],
+                "correct_answer": "B",
+                "explanation": "La probabilità esprime quanto è verosimile che un rischio si manifesti."
+            },
+            {
+                "id": 698,
+                "category": "Understand practices",
+                "question": "What does 'Manage by Exception' reduce for the Project Board?",
+                "options": [
+                "A. The number of project risks",
+                "B. The time spent on the project by being involved only when necessary",
+                "C. The quality of the project products",
+                "D. The project's budget"
+                ],
+                "correct_answer": "B",
+                "explanation": "Permette al Board di intervenire solo in caso di problemi (eccezioni), risparmiando tempo."
+            },
+            {
+                "id": 699,
+                "category": "Understand processes",
+                "question": "In which process is the 'Lessons Report' produced?",
+                "options": [
+                "A. Initiating a project",
+                "B. Closing a project",
+                "C. Starting up a project",
+                "D. Controlling a stage"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il report delle lezioni finali viene preparato durante la chiusura del progetto."
+            },
+            {
+                "id": 700,
+                "category": "Understand processes",
+                "question": "Which activity occurs during 'Managing product delivery'?",
+                "options": [
+                "A. Authorizing a work package",
+                "B. Creating and testing specialist products",
+                "C. Setting stage tolerances",
+                "D. Writing the project brief"
+                ],
+                "correct_answer": "B",
+                "explanation": "Questo è il processo dove il team tecnico costruisce effettivamente i prodotti."
+            },
+            {
+                "id": 701,
+                "category": "Understand key concepts",
+                "question": "Which aspect of project performance relates to the project's 'Green' credentials?",
+                "options": [
+                "A. Quality",
+                "B. Sustainability",
+                "C. Benefits",
+                "D. Scope"
+                ],
+                "correct_answer": "B",
+                "explanation": "La sostenibilità monitora l'impatto ambientale e sociale del progetto."
+            },
+            {
+                "id": 702,
+                "category": "Understand principles",
+                "question": "Which principle is being applied when a project is adapted for a small company?",
+                "options": [
+                "A. Manage by exception",
+                "B. Tailor to suit the project",
+                "C. Focus on products",
+                "D. Learn from experience"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'adattamento (Tailoring) assicura che il metodo sia proporzionato alla scala del progetto."
+            },
+            {
+                "id": 703,
+                "category": "Understand people",
+                "question": "What is 'Collaboration' in PRINCE2 7?",
+                "options": [
+                "A. Working in silos",
+                "B. Working together to achieve shared goals through mutual trust",
+                "C. Following orders without questioning",
+                "D. Reporting all team actions to the Board"
+                ],
+                "correct_answer": "B",
+                "explanation": "La collaborazione è un pilastro dell'elemento People per migliorare i risultati."
+            },
+            {
+                "id": 704,
+                "category": "Understand practices",
+                "question": "Which document defines how and when information will be shared with stakeholders?",
+                "options": [
+                "A. Quality Management Approach",
+                "B. Communication Management Approach",
+                "C. Risk Management Approach",
+                "D. Project Brief"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'approccio alla comunicazione gestisce i flussi informativi del progetto."
+            },
+            {
+                "id": 705,
+                "category": "Understand practices",
+                "question": "Identify the missing word: The project [?] provides independent check that the project is being managed correctly.",
+                "options": [
+                "A. Support",
+                "B. Assurance",
+                "C. Manager",
+                "D. Supplier"
+                ],
+                "correct_answer": "B",
+                "explanation": "La Project Assurance garantisce al Board l'integrità della gestione."
+            },
+            {
+                "id": 706,
+                "category": "Understand practices",
+                "question": "What is a 'Dis-benefit'?",
+                "options": [
+                "A. A risk that has happened",
+                "B. A negative consequence of a project investment",
+                "C. A project delay",
+                "D. A budget overspend"
+                ],
+                "correct_answer": "B",
+                "explanation": "Un dis-beneficio è un impatto negativo previsto derivante dal progetto."
+            },
+            {
+                "id": 707,
+                "category": "Understand practices",
+                "question": "Which practice deals with uncertainty?",
+                "options": [
+                "A. Quality",
+                "B. Risk",
+                "C. Progress",
+                "D. Plans"
+                ],
+                "correct_answer": "B",
+                "explanation": "La gestione del rischio si occupa di gestire le incertezze."
+            },
+            {
+                "id": 708,
+                "category": "Understand practices",
+                "question": "Which role represents the interests of those who will use the project's products?",
+                "options": [
+                "A. Senior User",
+                "B. Senior Supplier",
+                "C. Executive",
+                "D. Project Manager"
+                ],
+                "correct_answer": "A",
+                "explanation": "Il Senior User rappresenta gli utenti finali."
+            },
+            {
+                "id": 709,
+                "category": "Understand processes",
+                "question": "Which process is used to prepare for the end of the project?",
+                "options": [
+                "A. Closing a project",
+                "B. Directing a project",
+                "C. Managing a stage boundary",
+                "D. Controlling a stage"
+                ],
+                "correct_answer": "A",
+                "explanation": "CP (Closing a project) serve a finalizzare le attività."
+            },
+            {
+                "id": 710,
+                "category": "Understand processes",
+                "question": "What is the main output of 'Initiating a project'?",
+                "options": [
+                "A. Project Brief",
+                "B. Project Initiation Documentation (PID)",
+                "C. End Stage Report",
+                "D. Exception Report"
+                ],
+                "correct_answer": "B",
+                "explanation": "La PID è il documento di riferimento finale dell'iniziazione."
+            },
+            {
+                "id": 711,
+                "category": "Understand key concepts",
+                "question": "Which of the following is NOT a characteristic of a project? 1. Temporary. 2. Repetitive. 3. Unique. 4. High uncertainty.",
+                "options": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+                ],
+                "correct_answer": "B",
+                "explanation": "Il lavoro ripetitivo è tipico del BAU, non dei progetti."
+            },
+            {
+                "id": 712,
+                "category": "Understand principles",
+                "question": "Which principle states that a project must have a business justification?",
+                "options": [
+                "A. Focus on products",
+                "B. Continued business justification",
+                "C. Manage by exception",
+                "D. Manage by stages"
+                ],
+                "correct_answer": "B",
+                "explanation": "Senza giustificazione commerciale, il progetto non dovrebbe esistere."
+            },
+            {
+                "id": 713,
+                "category": "Understand people",
+                "question": "What is 'Leadership' in PRINCE2 7?",
+                "options": [
+                "A. Giving orders",
+                "B. Motivating and influencing people to achieve goals",
+                "C. Writing reports",
+                "D. Managing the budget"
+                ],
+                "correct_answer": "B",
+                "explanation": "La leadership riguarda l'ispirazione e la guida delle persone."
+            },
+            {
+                "id": 714,
+                "category": "Understand practices",
+                "question": "Which document contains the 'Quality Criteria' for a product?",
+                "options": [
+                "A. Project Brief",
+                "B. Product Description",
+                "C. Risk Register",
+                "D. Daily Log"
+                ],
+                "correct_answer": "B",
+                "explanation": "La Product Description definisce i criteri di qualità specifici del prodotto."
+            },
+            {
+                "id": 715,
+                "category": "Understand practices",
+                "question": "What is an 'Exception Report'?",
+                "options": [
+                "A. A routine progress update",
+                "B. A report sent when a tolerance is forecast to be exceeded",
+                "C. A technical manual",
+                "D. A list of project team members"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Exception Report segnala al Board che i limiti dello stage sono a rischio."
+            },
+            {
+                "id": 716,
+                "category": "Understand practices",
+                "question": "Which role owns the Business Case?",
+                "options": [
+                "A. Project Manager",
+                "B. Executive",
+                "C. Senior User",
+                "D. Senior Supplier"
+                ],
+                "correct_answer": "B",
+                "explanation": "L'Executive è il proprietario ultimo del Business Case."
+            },
+            {
+                "id": 717,
+                "category": "Understand processes",
+                "question": "Which process covers the day-to-day management by the Project Manager?",
+                "options": [
+                "A. Directing a project",
+                "B. Controlling a stage",
+                "C. Managing product delivery",
+                "D. Initiating a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "In 'Controlling a stage', il PM gestisce le attività quotidiane."
+            },
+            {
+                "id": 718,
+                "category": "Understand processes",
+                "question": "Identify the missing word: The process [?] provides a fixed point at which acceptance of the final product is confirmed.",
+                "options": [
+                "A. Managing product delivery",
+                "B. Closing a project",
+                "C. Managing a stage boundary",
+                "D. Initiating a project"
+                ],
+                "correct_answer": "B",
+                "explanation": "La chiusura conferma l'accettazione finale dei risultati."
+            },
+            {
+                "id": 719,
+                "category": "Understand key concepts",
+                "question": "What is 'Scope Creep'?",
+                "options": [
+                "A. A project risk response",
+                "B. The uncontrolled expansion of project scope",
+                "C. A way to increase the budget",
+                "D. A meeting with the Board"
+                ],
+                "correct_answer": "B",
+                "explanation": "Lo Scope Creep avviene aggiungendo requisiti senza controllo formale."
+            },
+            {
+                "id": 720,
+                "category": "Understand principles",
+                "question": "Which principle states that a project team should search for lessons? 1. Learn from experience. 2. Focus on products. 3. Manage by stages. 4. Tailor to suit the project.",
+                "options": [
+                "A. 1",
+                "B. 2",
+                "C. 3",
+                "D. 4"
+                ],
+                "correct_answer": "A",
+                "explanation": "L'apprendimento deve essere attivo: cercare lezioni all'inizio, durante e alla fine."
             }
         ]
